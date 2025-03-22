@@ -1,0 +1,40 @@
+name: GENIE 3.0 CI/CD Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy-terraform:
+    name: "Terraform Init, Plan & Apply"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🔧 Setup Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: 1.0.11
+          cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
+
+      - name: ✅ Validate Terraform
+        run: terraform validate
+
+      - name: 🚧 Initialize Terraform
+        run: terraform init
+
+      - name: 🕰 Terraform Plan
+        id: plan
+        run: terraform plan -out=tfplan
+
+      - name: 💾 Encode Plan to Environment
+        run: echo "TF_PLAN=$(base64 tfplan)" >> $GITHUB_ENV
+
+      - name: 🚀 Terraform Apply Plan
+        if: github.ref == 'refs/heads/main'
+        run: |
+          echo "$TF_PLAN" | base64 -d > tfplan
+          terraform apply -auto-approve tfplan
