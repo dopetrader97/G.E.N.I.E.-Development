@@ -120,6 +120,4 @@ Dated: April 3, 2025
 
 ---
 
-✅ Let me know if you want me to immediately draft **Versions B or C** (in response to a weak or substantive DA opposition), and the **Opposition to the DA's Protective Order** next.
 
-We can also move forward with your oral argument outline and witness examination prep.
