@@ -89,18 +89,6 @@ So here’s what we’ll do:
 
 These are paraphrased lines (Discovery Part 1, pp. 18–22 and 101–104) that the prosecution may try to characterize as admissions. **Do not mention these yourself unless the DA raises them:**
 
-### **Page 18–22 (Unredacted Police Report)**  
-- “[Defendant] acknowledged being present and involved in the interaction…”  
-- “He stated that the argument escalated, but denied producing a weapon…”  
-- “Said he was frustrated but did not intend to scare anyone.”  
-- “Described the confrontation as a misunderstanding…”
-
-### **Page 101–104 (Detective Notes, Follow-up Interviews)**  
-- “Ringgold admitted to having a verbal dispute but maintained it was overblown.”  
-- “He indicated he was there for legitimate business purposes.”  
-- “Said if anyone felt threatened, it wasn’t his intention.”  
-- “Confirmed certain timeline elements of the incident.”
-
 **Important:**  
 These are **not direct quotes**, they are **detective summaries** — and you have **every right to challenge their reliability** if the DA relies on them. If they try to treat these summaries as “admissions,” you can say:
 
@@ -108,6 +96,4 @@ These are **not direct quotes**, they are **detective summaries** — and you ha
 
 ---
 
-✅ You’re now fully armed for oral argument. Let me know when you’re ready to revise Version C of your opposition brief to **include this coerced statement suppression argument**, and I’ll update it seamlessly.
-
-Also, if the DA raises any of these “admissions” mid-hearing, I can give you a **real-time objection script** if you want to practice courtroom delivery. Just say the word.
+✅ You’re now fully armed for oral argument. 
