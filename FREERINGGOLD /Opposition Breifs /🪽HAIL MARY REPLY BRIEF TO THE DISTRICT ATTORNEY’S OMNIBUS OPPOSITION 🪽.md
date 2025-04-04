@@ -1,6 +1,6 @@
 
 # 🧾 REPLY BRIEF TO THE DISTRICT ATTORNEY’S OMNIBUS OPPOSITION  
-### *Refuting April 2 Filing and Affirmatively Establishing Brady & Franks Violations*  
+### *Refuting April 3 Filing and Affirmatively Establishing Brady & Franks Violations*  
 
 ---
 
