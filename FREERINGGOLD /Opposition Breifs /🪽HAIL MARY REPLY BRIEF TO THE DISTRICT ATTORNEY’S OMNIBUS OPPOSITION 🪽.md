@@ -70,6 +70,8 @@ By ignoring the prosecution’s waiver and compressing Defendant’s response ti
 
 This disparity is amplified by the fact that the Court failed to address or acknowledge the merits of multiple defense motions before trial.
 
+The DA filed its Omnibus Opposition at 3:59 PM—literally one minute before the final deadline—highlighting a calculated disregard for fair notice and procedural fairness.
+
 ---
 
 ### D. DA’s Silence on Judicial Bias and CCP §170.6 Is a Procedural Admission
@@ -98,7 +100,7 @@ Once filed, a valid and timely §170.6 motion strips the court of jurisdiction. 
 > - People v. Superior Court (Lavi) (1993) 4 Cal.4th 1164  
 > - Solberg v. Superior Court (1977) 19 Cal.3d 182
 
-The fact that Judge Bork continued issuing rulings after March 28, 2025, including acceptance of the prosecution’s omnibus opposition, violates binding California Supreme Court precedent.
+The fact that Judge Bork continued issuing rulings after March 28, 2025, including acceptance of the prosecution’s omnibus opposition, violates binding California Supreme Court precedent. Failure to honor a timely CCP §170.6 disqualification constitutes automatic reversible error under California law, necessitating immediate appellate intervention.
 
 ---
 
@@ -113,6 +115,16 @@ These procedural errors and disparities violate:
 
 Defendant’s right to equal access to the judicial process has been impaired. These violations demand immediate remedy or, if ignored, will form the basis of appellate and federal habeas review.
 
+### G. The DA's Intentional Noncompliance with Court-Ordered Meet and Confer Obligations
+The District Attorney explicitly violated the Court's directive to conduct a timely meet-and-confer, causing substantial prejudice to Defendant’s preparation. Specifically, on March 24, 2025, in open court, the Court explicitly ordered the prosecution to immediately meet and confer regarding outstanding discovery issues and explicitly warned that failure to comply would result in sanctions.
+
+Despite Defendant proactively offering availability for Friday, March 28, 2025, and Saturday, March 29, 2025, via email dated Wednesday, March 26, 2025, Deputy District Attorney Lana Barnett explicitly refused, citing the unavailability of Detective Catherine Hall-Fein (see email from Barnett dated March 27, 2025). Instead, Barnett insisted on meeting the following week (Wednesday, April 2, 2025), explicitly contravening the Court's order and significantly narrowing Defendant’s preparation window.
+
+When Defendant explicitly objected via email on Thursday, March 27, 2025, clearly stating the DA's proposed timeline directly violated the court order and prejudiced the defense, DA Barnett responded on Friday, March 28, 2025, dismissively advising Defendant to "lodge any objections...with the Court" (email from Barnett dated March 28, 2025, at 9:34 AM). Barnett provided no justification beyond convenience, demonstrating calculated noncompliance.
+
+This deliberate refusal to comply with explicit judicial instructions severely compromised Defendant’s ability to prepare an adequate defense, constituting obstruction of justice and procedural misconduct. It also underscores the prosecution's pattern of delaying discovery and disregarding clear court directives.
+
+Such intentional disregard for explicit judicial orders is sanctionable misconduct under Penal Code §1054.5(b), California Rules of Court Rule 8.54(c), and constitutes structural prejudice under the Due Process Clause of the Fourteenth Amendment (Mathews v. Eldridge, 424 U.S. 319 (1976); Caperton v. A.T. Massey Coal Co., Inc., 556 U.S. 868 (2009)).
 ---
 
 ## III. BRADY VIOLATIONS – MATERIAL EXCULPATORY STATEMENTS WITHHELD
@@ -137,6 +149,7 @@ These omissions constitute deliberate suppression of material exculpatory eviden
 - Giglio v. United States, 405 U.S. 150 (1972)  
 - California Penal Code § 1054.1
 
+Had Davis’s and Paradise’s exculpatory statements been timely disclosed, there would have been no probable cause for the alleged threats or firearm-related charges.
 ---
 
 ### D. ADDITIONAL PROOF OF BRADY VIOLATIONS & PATTERN OF DISCOVERY MISCONDUCT
