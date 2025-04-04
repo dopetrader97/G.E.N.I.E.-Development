@@ -226,7 +226,7 @@ This is demonstrably false.
    - Emmanuel Davis (Pages 75–76)
    - Melissa Paradise (Page 132)
 
-These are specific and substantiated. The DA failed to rebut — tacitly conceding the point.
+These are specific and substantiated. The DA failed to rebut — tacitly conceding the point. These are not generalized claims. They are direct citations of withheld, exculpatory statements. The DA’s failure to address or rebut them is a tacit concession. 
 
 ---
 
