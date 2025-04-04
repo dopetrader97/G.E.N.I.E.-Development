@@ -253,7 +253,7 @@ Defendant respectfully requests the following relief, based on the undisputed fa
 
 ## X. CONCLUSION
 
-No fair trial can proceed where the prosecution erases key witnesses, fabricates affidavit language, withholds discovery, and delays constitutional responses for over 50 days. The unredacted police report is now the definitive record. It must control.
+No fair trial can proceed where the prosecution erases key witnesses, fabricates affidavit language, withholds discovery, and delays constitutional responses for over 50 days. The unredacted police report, which reveals exculpatory material previously suppressed, is now the definitive and complete record. This Court must base its rulings on that record alone.
 
 Respectfully submitted,  
 Dated: April 4, 2025  
