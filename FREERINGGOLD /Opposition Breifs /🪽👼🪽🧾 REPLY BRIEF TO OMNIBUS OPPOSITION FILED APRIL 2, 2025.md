@@ -57,27 +57,27 @@ The prosecution filed a consolidated omnibus opposition on April 2 — well beyo
 
 ### A. Emmanuel Davis Statement – Omitted and Redacted
 
-📍 **Discovery Part 1 (Unredacted), Pages 75–76**  
-🗂️ **Redacted Police Report**: Entirely excludes Davis’s name, role, and statement.
+**Discovery Part 1 (Unredacted), Pages 75–76**  
+🗂**Redacted Police Report**: Entirely excludes Davis’s name, role, and statement.
 
 **Unredacted content:**
 > *“Davis stated he never saw Ringgold with a firearm... said he did not hear any threats and believed Ringgold was trying to calm things down.”*
 
-✅ This is **direct exculpatory evidence**, affirmatively denying any criminal conduct.  
-❌ **Omitted entirely** from the redacted version.
+This is **direct exculpatory evidence**, affirmatively denying any criminal conduct.  
+**Omitted entirely** from the redacted version.
 
 ---
 
 ### B. Melissa Paradise Statement – Omitted and Redacted
 
-📍 **Discovery Part 2 (Unredacted), Page 132**  
-🗂️ **Redacted Police Report**: Omitted completely — name and content absent.
+**Discovery Part 2 (Unredacted), Page 132**  
+🗂**Redacted Police Report**: Omitted completely — name and content absent.
 
 **Unredacted content:**
 > *“Paradise stated she did not see a gun during the incident. She also said she did not hear Ringgold make any threats and thought the situation was blown out of proportion.”*
 
-✅ This directly contradicts the prosecution’s case and the affidavit.  
-❌ Entirely omitted — **name not even mentioned** in redacted discovery.
+This directly contradicts the prosecution’s case and the affidavit.  
+Entirely omitted — **name not even mentioned** in redacted discovery.
 
 ---
 
@@ -352,18 +352,19 @@ The DA has not refuted the content of the affidavit or the redactions — becaus
 
 ---
 
-## VIII. EXHIBIT INDEX (INCORPORATED INTO RECORD)
+### VIII. EXHIBIT INDEX (Evidentiary Reference)
 
-| Exhibit | Description | Relevance |
-|--------|-------------|-----------|
-| C | Davis Affidavit | Refutes firearm/threat claims |
-| C.1 | Paradise Statements (from unredacted report) | Confirms no gun, no threat |
-| F.4–F.6 | Texts/emails with Fitzgerald & others | Prove misunderstanding, not intent |
-| Redacted Report | Filed previously | Omits Davis & Paradise |
-| Unredacted Report | Disclosed April 2, 2025 | Confirms Brady/Franks violations |
-| Surveillance | Contradicts alleged threat timeline | To be introduced at hearing |
+| Exhibit | Original Exhibit # | Description | Discovery Page(s) | Relevance |
+|--------|--------------------|-------------|--------------------|-----------|
+| **A** | Exhibit C | Sworn Affidavit – Emmanuel Davis | N/A (Separate filing) | Directly refutes threat/firearm |
+| **B** | Exhibit C.1 | Police Report – Davis Statement | Pages 75–76 (Unredacted) | Misrepresented in affidavit |
+| **C** | Exhibit C.2 | Police Report – Paradise Statement | Page 132 (Unredacted) | Omitted from redacted report |
+| **D** | Exhibit F.4–F.6 | Texts/emails with Fitzgerald & others | Submitted April 2 | Disprove threat narrative |
+| **E** | Exhibit G | Redacted Police Report | Prior Discovery | Confirms suppression |
+| **F** | Exhibit E.1 + Surveillance Compilation | Surveillance Footage + Screenshots | To be presented | Factual impeachment |
 
 ---
+
 
 ## IX. REQUESTED RELIEF
 
