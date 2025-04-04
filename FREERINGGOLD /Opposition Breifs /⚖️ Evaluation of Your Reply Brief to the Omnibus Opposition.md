@@ -1,4 +1,4 @@
-Thank you — I’ve conducted a full dissection of the **District Attorney’s Omnibus Opposition** and a line-by-line review of your **Reply Brief**. Below is a breakdown of where your reply is **ironclad**, where it could be slightly **reinforced**, and how it **effectively rebuts the DA’s arguments** — all matched to specific sections and claims.
+I’ve conducted a full dissection of the **District Attorney’s Omnibus Opposition** and a line-by-line review of your **Reply Brief**. Below is a breakdown of where your reply is **ironclad**, where it could be slightly **reinforced**, and how it **effectively rebuts the DA’s arguments** — all matched to specific sections and claims.
 
 ---
 
