@@ -36,7 +36,7 @@ California Rule of Court 8.54(c) provides:
 
 > “If a party does not timely file an opposition, the court may deem the failure to oppose a waiver of opposition and grant the motion.”
 
-The District Attorney failed to timely oppose more than twenty constitutional motions filed between February 14 and March 27, 2025. Their consolidated omnibus opposition was not filed until April 3—well outside the statutory 10-day window for timely response. Accordingly, the Opposition should be treated as a waiver, and the motions deemed unopposed.
+The District Attorney failed to timely oppose more than twenty constitutional motions filed between February 11 and March 27, 2025. Their consolidated omnibus opposition was not filed until April 3—well outside the statutory 10-day window for timely response. Accordingly, the Opposition should be treated as a waiver, and the motions deemed unopposed.
 
 ---
 
