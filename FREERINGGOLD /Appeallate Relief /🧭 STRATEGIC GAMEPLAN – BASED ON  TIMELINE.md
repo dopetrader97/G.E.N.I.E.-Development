@@ -1,4 +1,145 @@
-This is an incredibly important and nuanced clarification. Based on this new and **critically relevant timeline**, I’m updating your strategic advice below to reflect exactly where you stand procedurally and how to **best protect your record and federal rights** moving forward.
+Absolutely. Based on everything you've provided, here is your fully integrated and updated **Strategic Gameplan** — now expanded to include:
+
+- Filing and serving all subpoenas and witness lists,
+- Notices to higher governing authorities (e.g., DOJ, Judicial Council, CJP),
+- Timing of your post-April 8 appellate filings,
+- The current legal posture of your §170.6 motion and judicial bias filings,
+- How to maximize your position for emergency relief, appeal, or federal review.
+
+---
+
+# 🔍 UPDATED STRATEGIC ROADMAP – APRIL 2025
+
+### Timeline Snapshot (Confirmed)
+
+| Date | Action |
+|------|--------|
+| **March 24** | Judge Bork sets April 8 hearing (pre-170.6). |
+| **March 27** | You file Motion to Dismiss for Judicial Bias + supporting Declaration. Writ of Mandate filed with Court of Appeal (does not include formal §170.6). |
+| **March 28** | You file formal CCP §170.6 motion in trial court. Court of Appeal denies writ that same day — without Brady or 170.6 info. |
+| **April 2** | DA finally discloses unredacted Brady material (Davis + Paradise). |
+| **April 3** | DA files last-minute Omnibus Opposition at 3:59 PM. |
+| **April 4** | You file Reply Brief, cementing the record of Brady, Franks, and §170.6 issues. |
+| **April 8** | Critical hearing: Judge Bork must recuse or risk jurisdictional violation. Trial set for April 9. |
+
+---
+
+# ✅ CURRENT STRATEGIC PRIORITY LIST
+
+### 1. ✅ File & Serve All Subpoenas and Witness List Immediately
+
+**Why:**
+- Preserves your compulsory process rights under the Sixth Amendment and CA Const. Art. I §15.
+- Ensures your trial defense cannot be accused of being untimely or unprepared.
+- Secures witnesses like **Emmanuel Davis**, **Melissa Paradise**, **Danny Fitzgerald**, and any officers tied to affidavit and chain of custody.
+
+> **Also send DOJ Notification Letters & Letters to Judicial Oversight Agencies** (e.g., CJP, State Bar, Judicial Council), citing:
+> - Brady violations,
+> - Ongoing misconduct,
+> - Apparent bias by judicial officer.
+
+---
+
+### 2. ✅ File Reply Brief – April 4
+
+Your Reply Brief should:
+- Emphasize that the **CCP §170.6 was filed March 28**, and Judge Bork has **not ruled**;
+- Note that the April 8 hearing was set **prior** to 170.6, but now may be structurally void if Bork proceeds;
+- Clarify that **the Brady evidence, Franks evidence, and DA’s last-minute filings** are all new facts **not reviewed by the appellate court** on March 28.
+
+---
+
+### 3. ✅ Prepare the Following to File on April 8 (Immediately After Hearing)
+
+If Judge Bork refuses to recuse or rules anyway:
+
+#### A. **New or Amended Writ of Mandate**
+- Attach:
+  - March 28 §170.6 filing
+  - April 2 Brady disclosures
+  - Your Reply Brief
+  - A one-page declaration logging:
+    - All procedural events from March 24–April 8,
+    - The court’s failure to enforce disqualification.
+
+#### B. **Emergency Stay Request**
+- Ask the Court of Appeal to **halt the April 9 trial immediately** pending resolution of:
+  - Brady,
+  - Franks,
+  - CCP §170.6,
+  - Bias and due process issues.
+
+#### C. **Petition for Rehearing of March 28 Denial (Optional or Alternative)**
+- If you want to formally reopen the prior writ (denied before you had Brady disclosures), this is your vehicle.
+- Use **Rule 8.268** and **CCP §1008(b)**.
+
+---
+
+### 4. ✅ Prepare to Escalate Federally Only If State Denies Everything
+
+Once the above filings are denied or ignored:
+
+- You may file:
+  - **Federal Habeas Corpus (28 U.S.C. §2254)** for pretrial incarceration or constitutional violations,
+  - Or a **§1983 Civil Rights Complaint** for injunctive relief or damages (targeting prosecutorial and judicial misconduct).
+
+But only **after** state exhaustion or when state remedies become **clearly ineffective**.
+
+---
+
+# ✅ LEGAL ARGUMENT STATUS SUMMARY
+
+| Issue | Legal Grounds | Status |
+|-------|----------------|--------|
+| **CCP §170.6 Motion** | Peracchi v. Sup. Ct., Lavi, Solberg | Filed Mar. 28, never ruled on |
+| **Brady Violations** | Brady, Giglio, Kyles | Proved via April 2 unredacted disclosures |
+| **Franks Violation** | Franks v. Delaware | Affidavit contradicted by unredacted reports |
+| **Judicial Bias** | Caperton, Pompa-Ortiz, CCP §170.6 | Documented via rulings and timeline |
+| **Due Process Violation** | Mathews v. Eldridge | Compressed hearing, 51 vs. 4 day response gap |
+| **Rule 8.54(c) Violation** | Procedural rule / waiver doctrine | DA defaulted, court gave them extension |
+
+---
+
+# ✅ TIMING SUMMARY
+
+| Action | Filing Date |
+|--------|-------------|
+| Reply Brief | April 4 |
+| Witness List + Subpoenas | April 4–5 |
+| DOJ/CJP/State Bar Letters | April 4–5 |
+| Emergency Writ or Stay | April 8 (Post-Hearing) |
+| Motion for Rehearing (optional) | April 8 or ASAP after hearing |
+| Federal Filing (if needed) | Only after April 8 + state refusal |
+
+---
+
+## 🧾 DOCUMENTS TO FILE OR SEND BY APRIL 8
+
+- ✅ Subpoena Forms (Judicial Council Form CR-125 or local format)
+- ✅ DOJ & Oversight Authority Letters (State Bar, CJP, etc.)
+- ✅ Emergency Writ Template (Prepared for April 8)
+- ✅ Emergency Stay Request Template (For Court of Appeal)
+- ✅ Declaration logging March 24–April 8 procedural events
+- ✅ Motion for Rehearing under Rule 8.268 (optional/contingent)
+- ✅ Updated Proof of Service for all filings
+
+---
+
+## 🔥 READY TO GENERATE?
+
+Let me know if you'd like me to:
+
+- Prepare your **New Writ of Mandate Template (post-April 8)**  
+- Draft your **Emergency Stay Motion (to be filed with the writ)**  
+- Generate your **Declaration logging procedural timeline**  
+- Provide **Subpoena templates, DOJ/CJP letter templates, and Proof of Service**
+
+You are locked in — but timing is everything from here.
+
+Ready to go when you are.
+---
+
+I’m updating your strategic advice below to reflect exactly where you stand procedurally and how to **best protect your record and federal rights** moving forward.
 
 ---
 
