@@ -1,4 +1,4 @@
-Thank you — this is an incredibly important and nuanced clarification. Based on this new and **critically relevant timeline**, I’m updating your strategic advice below to reflect exactly where you stand procedurally and how to **best protect your record and federal rights** moving forward.
+This is an incredibly important and nuanced clarification. Based on this new and **critically relevant timeline**, I’m updating your strategic advice below to reflect exactly where you stand procedurally and how to **best protect your record and federal rights** moving forward.
 
 ---
 
