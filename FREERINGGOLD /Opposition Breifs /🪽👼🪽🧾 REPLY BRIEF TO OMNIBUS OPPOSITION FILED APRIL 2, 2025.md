@@ -156,16 +156,21 @@ The redacted report **intentionally removed** these statements. The DA’s oppos
 
 ---
 
-### VIII. EXHIBIT INDEX (Evidentiary Reference)
+
+### VIII. EXHIBIT INDEX (Evidentiary Reference – Updated Order)
 
 | Exhibit | Original Exhibit # | Description | Discovery Page(s) | Relevance |
-|--------|--------------------|-------------|--------------------|-----------|
-| **A** | Exhibit C | Sworn Affidavit – Emmanuel Davis | N/A (Separate filing) | Directly refutes threat/firearm |
-| **B** | Exhibit C.1 | Police Report – Davis Statement | Pages 75–76 (Unredacted) | Misrepresented in affidavit |
-| **C** | Exhibit C.2 | Police Report – Paradise Statement | Page 132 (Unredacted) | Omitted from redacted report |
-| **D** | Exhibit F.4–F.6 | Texts/emails with Fitzgerald & others | Submitted April 2 | Disprove threat narrative |
-| **E** | Exhibit G | Redacted Police Report | Prior Discovery | Confirms suppression |
-| **F** | Exhibit E.1 + Surveillance Compilation | Surveillance Footage + Screenshots | To be presented | Factual impeachment |
+|---------|--------------------|-------------|--------------------|-----------|
+| **A**   | N/A Not provided until April 2nd 2025  | Police Report – Davis Statement | Pages 75–76 (Unredacted) | Misrepresented in affidavit |
+| **B**   | N/A Not provided until April 2nd 2025 | Police Report – Paradise Statement | Page 132 (Unredacted) | Omitted from redacted report |
+| **C**   | Exhibit C          | Sworn Affidavit – Emmanuel Davis | N/A (Separate filing) | Directly refutes threat/firearm |
+| **D**   | Exhibit F.4–F.6    | Texts/emails with Fitzgerald & others | Submitted April 2 | Disprove threat narrative |
+| **E**   | N/A N/A Not provided until late in Discovery | Redacted Police Report | Prior Discovery | Confirms suppression |
+| **F**   | N/A Not provided until April 2nd 2025 | Surveillance Footage + Screenshots | To be presented | Factual impeachment |
+
+---
+
+Let me know if you'd like this reformatted as a printable PDF/table or inserted directly into your final **Reply Brief**.
 
 ---
 
