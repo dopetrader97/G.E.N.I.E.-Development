@@ -23,7 +23,7 @@ Defendant.
 
 ## I. INTRODUCTION
 
-This reply is submitted in response to the **District Attorney’s Omnibus Opposition**, filed at **3:59 PM on April 2, 2025**, just minutes before the filing deadline. The opposition is **procedurally defective**, **factually misleading**, and **legally insufficient**, and fails to address the core **Brady**, **Franks**, and **due process violations**.
+This reply is submitted in response to the **District Attorney’s Omnibus Opposition**, filed at **3:59 PM on April 3, 2025**, just minutes before the filing deadline. The opposition is **procedurally defective**, **factually misleading**, and **legally insufficient**, and fails to address the core **Brady**, **Franks**, and **due process violations**.
 
 The newly disclosed **unredacted police reports**, released only **7 days before trial**, definitively confirm that exculpatory witness statements were:
 
