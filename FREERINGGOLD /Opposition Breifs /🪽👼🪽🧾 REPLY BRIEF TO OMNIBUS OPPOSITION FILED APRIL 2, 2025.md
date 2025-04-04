@@ -165,7 +165,7 @@ The redacted report **intentionally removed** these statements. The DA’s oppos
 | **B**   | N/A Not provided until April 2nd 2025 | Police Report – Paradise Statement | Page 132 (Unredacted) | Omitted from redacted report |
 | **C**   | Exhibit C          | Sworn Affidavit – Emmanuel Davis | N/A (Separate filing) | Directly refutes threat/firearm |
 | **D**   | Exhibit F.4–F.6    | Texts/emails with Fitzgerald & others | Submitted April 2 | Disprove threat narrative |
-| **E**   | N/A N/A Not provided until late in Discovery | Redacted Police Report | Prior Discovery | Confirms suppression |
+| **E**   | N/A Not provided until late in Discovery | Redacted Police Report | Prior Discovery | Confirms suppression |
 | **F**   | N/A Not provided until April 2nd 2025 | Surveillance Footage + Screenshots | To be presented | Factual impeachment |
 
 ---
