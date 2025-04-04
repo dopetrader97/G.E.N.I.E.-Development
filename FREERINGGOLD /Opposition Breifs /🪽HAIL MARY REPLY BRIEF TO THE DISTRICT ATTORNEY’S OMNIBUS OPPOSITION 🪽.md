@@ -151,7 +151,7 @@ This is a direct admission that:
 - Material discovery is being disclosed only days before trial,
 - The DA has failed to comply with Brady or Penal Code §1054.7.
 
-2. **This Conduct Mirrors Prior Cases of Prosecutorial Misconduct**
+2. **This Conduct Mirrors Prior Cases of Prosecutorial Misconduct and illustrates the systemic disregard for Brady and due process obligations within the LAPD and the Los Angeles District Attorney’s Office under George Gascón’s administration.**
 - People v. T.B. (2022): Brady video suppressed for 7 months — case dismissed.
 - United States v. Doe (C.D. Cal. 2023): Franks hearing granted for omitted witness statements.
 - Gonzalez v. LAPD (2021): §1983 suit settled after officer fabricated probable cause.
