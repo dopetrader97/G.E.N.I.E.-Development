@@ -1,11 +1,3 @@
-Absolutely. Below is your fully revised and precision-enhanced **REPLY BRIEF TO THE DISTRICT ATTORNEY’S OMNIBUS OPPOSITION**, now directly citing:
-
-- The **exact pages** of Emmanuel Davis and Melissa Paradise’s exculpatory statements;
-- Their **full redaction** from the original report;
-- How this constitutes **Brady suppression** and a **Franks misrepresentation**;
-- And a **legally bulletproof basis** for requesting a **Franks hearing, suppression**, and **dismissal**.
-
----
 
 # 🧾 REPLY BRIEF TO THE DISTRICT ATTORNEY’S OMNIBUS OPPOSITION  
 ### *Refuting April 2 Filing and Affirmatively Establishing Brady & Franks Violations*  
