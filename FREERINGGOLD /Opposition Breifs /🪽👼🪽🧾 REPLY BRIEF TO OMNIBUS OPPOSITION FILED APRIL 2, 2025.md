@@ -156,16 +156,16 @@ The redacted report **intentionally removed** these statements. The DA’s oppos
 
 ---
 
-## VIII. EXHIBIT INDEX (Evidentiary Reference)
+### VIII. EXHIBIT INDEX (Evidentiary Reference)
 
-| Exhibit | Description | Discovery Page(s) | Relevance |
-|--------|-------------|-------------------|-----------|
-| C | Sworn Affidavit – Emmanuel Davis | N/A (Separate filing) | Directly refutes threat/firearm |
-| C.1 | Police Report – Davis Statement | Pages 75–76 (Unredacted) | Misrepresented in affidavit |
-| C.2 | Police Report – Paradise Statement | Page 132 (Unredacted) | Omitted from redacted report |
-| F.4–F.6 | Texts/emails with Fitzgerald & others | Submitted April 2 | Disprove threat narrative |
-| Redacted Report | Prior Discovery | Entirely omits key witnesses | Confirms suppression |
-| Surveillance | Timestamps contradict timeline | To be presented | Factual impeachment |
+| Exhibit | Original Exhibit # | Description | Discovery Page(s) | Relevance |
+|--------|--------------------|-------------|--------------------|-----------|
+| **A** | Exhibit C | Sworn Affidavit – Emmanuel Davis | N/A (Separate filing) | Directly refutes threat/firearm |
+| **B** | Exhibit C.1 | Police Report – Davis Statement | Pages 75–76 (Unredacted) | Misrepresented in affidavit |
+| **C** | Exhibit C.2 | Police Report – Paradise Statement | Page 132 (Unredacted) | Omitted from redacted report |
+| **D** | Exhibit F.4–F.6 | Texts/emails with Fitzgerald & others | Submitted April 2 | Disprove threat narrative |
+| **E** | Exhibit G | Redacted Police Report | Prior Discovery | Confirms suppression |
+| **F** | Exhibit E.1 + Surveillance Compilation | Surveillance Footage + Screenshots | To be presented | Factual impeachment |
 
 ---
 
