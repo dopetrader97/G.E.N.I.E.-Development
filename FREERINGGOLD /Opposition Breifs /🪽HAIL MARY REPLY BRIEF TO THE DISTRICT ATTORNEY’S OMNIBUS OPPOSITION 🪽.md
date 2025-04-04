@@ -273,7 +273,7 @@ Defendant respectfully requests the following relief, based on the undisputed fa
    - Prosecutorial and judicial misconduct,
    - Discovery and scheduling prejudice;
 
-8. Sanction the prosecution for willful suppression, improper redactions, and late discovery, under Penal Code §§1054.1–1054.5;
+8. Sanction the prosecution for willful suppression, improper redactions, and late discovery, under Penal Code §§1054.1–1054.5, and Order the immediate production of all outstanding discovery materials referenced in DDA Barnett’s email (Exhibit G), explicitly enforcing Penal Code §1054.5.";
 
 9. Preserve Defendant’s federal rights by acknowledging that:
    - Should relief be denied, Defendant will pursue extraordinary writ relief and federal habeas corpus under 28 U.S.C. §2254,
