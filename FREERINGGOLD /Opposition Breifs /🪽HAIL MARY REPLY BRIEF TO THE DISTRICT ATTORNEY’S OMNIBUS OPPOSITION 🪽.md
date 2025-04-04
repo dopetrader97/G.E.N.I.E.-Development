@@ -31,7 +31,7 @@ The newly disclosed **unredacted police reports**, released only **7 days before
 - **Mischaracterized in Detective Hall-Fein’s affidavit**;
 - **Withheld for 50+ days**, prejudicing trial preparation.
 
-The prosecution’s April 2 opposition is a last-ditch effort to obscure the record. It fails to rebut the factual content of the affidavit, the police reports, or the exculpatory statements now entered into the record.
+The prosecution’s April 3 opposition is a last-ditch effort to obscure the record. It fails to rebut the factual content of the affidavit, the police reports, or the exculpatory statements now entered into the record.
 
 ---
 
@@ -41,7 +41,7 @@ Under **California Rule of Court 8.54(c)**:
 
 > “If a party does not timely file an opposition, the court may deem the failure to oppose a waiver of opposition and grant the motion.”
 
-The prosecution filed a consolidated omnibus opposition on April 2 — well beyond the 10-day statutory window for multiple motions filed on February 14. Procedurally, the opposition should be treated as a **waiver** under 8.54(c), and the relief sought in Defendant’s motions **should be granted by default**.
+The prosecution filed a consolidated omnibus opposition on April 3 — well beyond the 10-day statutory window for multiple motions filed on February 14. Procedurally, the opposition should be treated as a **waiver** under 8.54(c), and the relief sought in Defendant’s motions **should be granted by default**.
 
 ---
 
@@ -190,7 +190,7 @@ The redacted police report presented a **fabricated case narrative**. The unreda
 This is no longer a question of legal interpretation — it is a matter of **fundamental fairness** and **constitutional integrity**.
 
 Respectfully submitted,  
-**Dated: April 4, 2025**  
+**Dated: April 3, 2025**  
 **Reginald Buddy Ringgold III**  
 Defendant, In Sui Juris
 
