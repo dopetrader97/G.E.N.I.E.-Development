@@ -30,13 +30,84 @@ Accordingly, Defendant respectfully requests that the Court strike or disregard 
 
 ---
 
-## II. PROCEDURAL WAIVER UNDER RULE 8.54(c)
+## II. PROCEDURAL WAIVER UNDER RULE 8.54(c) AND UNLAWFUL FAVORITISM BY THE COURT
+
+### A. Waiver by Untimely Opposition – California Rule of Court 8.54(c)
 
 California Rule of Court 8.54(c) provides:
 
 > “If a party does not timely file an opposition, the court may deem the failure to oppose a waiver of opposition and grant the motion.”
 
-The District Attorney failed to timely oppose more than twenty constitutional motions filed between February 11 and March 27, 2025. Their consolidated omnibus opposition was not filed until April 3—well outside the statutory 10-day window for timely response. Accordingly, the Opposition should be treated as a waiver, and the motions deemed unopposed.
+The District Attorney failed to timely oppose more than twenty (20) constitutional motions filed between February 11 and March 27, 2025. Their consolidated omnibus opposition was not filed until April 3, 2025 — well outside the 10-day window prescribed by law. The opposition was filed only after the Court allowed the People to respond late, improperly granting them a lifeline to cure their default.
+
+This procedural favoritism was unlawful and prejudicial.
+
+---
+
+### B. Court Ignored Default and Unequally Reallocated Timelines
+
+Rather than enforcing Rule 8.54(c), the Court:
+
+- Allowed the DA an **additional 10 days** after their default;
+- Gave the Defendant **only four (4) days** to respond to more than 23 motions addressed in the omnibus filing;
+- Did not acknowledge that the People had already procedurally defaulted under the California Rules of Court.
+
+This unequal allocation of time constitutes **structural unfairness** and implicates **due process** and **judicial neutrality**.
+
+---
+
+### C. The Court’s Failure to Enforce Timelines Is Procedural Prejudice
+
+By ignoring the prosecution’s waiver and compressing Defendant’s response time, the Court effectively:
+
+- Excused the People’s procedural default;
+- Elevated the prosecution’s position after a default had already occurred;
+- Prejudiced the Defendant’s ability to prepare meaningful rebuttals.
+
+This disparity is amplified by the fact that the Court failed to address or acknowledge the merits of multiple defense motions before trial.
+
+---
+
+### D. DA’s Silence on Judicial Bias and CCP §170.6 Is a Procedural Admission
+
+In Section V of their Omnibus Opposition (Pages 14–15), the District Attorney briefly references “judicial bias” and Defendant’s due process claims, labeling them as “repackaged” arguments. Critically, the People also stated:
+
+> *“…the People have addressed Defendant’s arguments elsewhere in the instant omnibus opposition, and declines to opine on Defendant’s motion pursuant to Code of Civil Procedure section 170.6.”*
+
+This is a **procedural waiver**. The DA:
+
+- Did not dispute the **timeliness** of Defendant’s March 28, 2025 §170.6 filing;
+- Did not challenge the **substance** of the motion;
+- Did not cite any case law or authority in opposition;
+- Did not assert any legal defect in the affidavit or service.
+
+As a result, the People have **waived all opposition** and **tacitly conceded the motion’s validity**.
+
+---
+
+### E. Judicial Disqualification Is Automatic and Mandatory
+
+Once filed, a valid and timely §170.6 motion **strips the court of jurisdiction**. No further rulings may be made. The Court’s refusal to honor the disqualification constitutes a **jurisdictional violation**.
+
+> See:
+> - *Peracchi v. Superior Court* (2003) 30 Cal.4th 1245;  
+> - *People v. Superior Court (Lavi)* (1993) 4 Cal.4th 1164;  
+> - *Solberg v. Superior Court* (1977) 19 Cal.3d 182.
+
+The fact that Judge Bork continued issuing rulings after March 28, 2025, including acceptance of the prosecution’s omnibus opposition, violates binding California Supreme Court precedent.
+
+---
+
+### F. Structural Due Process Violations Are Now Part of the Record
+
+These procedural errors and disparities violate:
+
+- **The Fourteenth Amendment’s Due Process Clause** (fundamental fairness),
+- **Caperton v. A.T. Massey Coal Co., Inc.**, 556 U.S. 868 (2009),
+- **Pompa-Ortiz v. Superior Court**, 27 Cal.3d 519 (1980) (prejudicial irregularities),
+- **Mathews v. Eldridge**, 424 U.S. 319 (1976) (basic fairness in procedural adjudication).
+
+Defendant’s right to equal access to the judicial process has been impaired. These violations demand immediate remedy or, if ignored, will form the basis of appellate and federal habeas review.
 
 ---
 
