@@ -74,7 +74,33 @@ Thus, the DA has procedurally **and constitutionally defaulted** under *Brady v.
 
 ---
 
-## IV. DUE PROCESS VIOLATION: DENIAL OF INDIVIDUALIZED RESPONSE
+## IV. THE DAVIS AFFIDAVIT WAS FILED, SERVED, AND IGNORED — NOT DISCLOSED
+
+The People’s opposition fails to acknowledge one of the most glaring examples of **prosecutorial suppression** in this case: their knowledge of and refusal to disclose or respond to **Emmanuel Davis’s exculpatory account**.
+
+- Mr. Davis was listed as a **named victim in Counts 2 and 4**, and was central to the State's early theory of the case.
+- After the restraining order was lifted and the DA dropped the charges related to Davis, he provided Defendant with a **sworn affidavit** stating:
+  - He saw **no gun**;
+  - He heard **no threats**;
+  - He believed the Defendant was **de-escalating** the situation.
+
+The prosecution was aware of Davis’s account early on but omitted it from every police report, affidavit, and discovery packet.
+
+### Immediately upon receiving pro per status:
+
+- On **February 14, 2025**, just three days after being granted *sui juris* status, Defendant filed a conformed **Motion to Subpoena Witness Emmanuel Davis** for live testimony.
+- On **March 7, 2025**, Defendant issued and served a judicially conformed **SUBP-002 subpoena**, with an evidentiary attachment outlining Davis’s exculpatory value.
+- On **March 24, 2025**, Defendant filed and served a **Motion to Submit the Affidavit into Evidence**.
+- On **March 27, 2025**, Defendant filed a **court-stamped Emergency Motion to Compel Testimony and Rulings**, again urging the Court to act on the suppressed witness.
+
+The People never responded to any of these filings. They did not move to quash the subpoena. They did not dispute the content of the affidavit. They did not claim Davis was unavailable. They simply **ignored it all.**
+
+> This is not procedural delay. This is **deliberate suppression** of material, favorable, and independently corroborated Brady evidence.
+
+---
+
+
+## V. DUE PROCESS VIOLATION: DENIAL OF INDIVIDUALIZED RESPONSE
 
 By lumping this motion into a **blanket omnibus opposition**, the People:
 
@@ -88,7 +114,7 @@ This approach also deprives the defense of the ability to meaningfully reply —
 
 ---
 
-## V. FRANKS HEARING REQUIRED – PEOPLE DID NOT CONTEST THE OMISSIONS
+## VI. FRANKS HEARING REQUIRED – PEOPLE DID NOT CONTEST THE OMISSIONS
 
 This Brady violation also crosses the **Franks threshold**:
 
@@ -100,7 +126,7 @@ Under *Franks v. Delaware* and *People v. Theodor*, where a motion shows **omitt
 
 ---
 
-## VI. CCP §170.6 STRIPS THE COURT OF JURISDICTION
+## VII. CCP §170.6 STRIPS THE COURT OF JURISDICTION
 
 On March 28, 2025, Defendant filed a **timely motion to disqualify Judge Bork** under **Code of Civil Procedure § 170.6**.
 
@@ -112,7 +138,7 @@ Thus, this reply brief also serves to **preserve the jurisdictional objection** 
 
 ---
 
-## VII. RELIEF REQUESTED
+## VIII. RELIEF REQUESTED
 
 Based on the foregoing, Defendant respectfully requests the Court:
 
@@ -125,7 +151,7 @@ Based on the foregoing, Defendant respectfully requests the Court:
 
 ---
 
-## VIII. CONCLUSION
+## IX. CONCLUSION
 
 The People’s failure to rebut the Brady motion is **not just procedural waiver** — it is a **due process breach** and a **constitutional violation**. This Court cannot overlook the suppression of key exculpatory evidence, nor can it legitimize an omnibus opposition that denies the Defendant individualized justice.
 
