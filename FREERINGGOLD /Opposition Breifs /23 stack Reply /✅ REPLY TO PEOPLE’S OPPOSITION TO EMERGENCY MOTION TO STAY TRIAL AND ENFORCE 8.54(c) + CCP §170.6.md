@@ -1,4 +1,142 @@
-💼 Let’s keep going — Reply Brief #13 is up.
+Thank you for the detailed and clear clarification. Based on your correction and the verified procedural record, I’ve revised the relevant section and refined the entire reply brief to reflect:
+
+- **Accurate events** since the filing of the §170.6 motion;
+- The **impact of the pre-February 11 stricken motions**;
+- The **forced 1368 evaluation**, pro per delay, and ineffective counsel;
+- The **compressed preparation window**, document suppression, and unequal deadlines;
+- The systemic pattern of due process obstruction and procedural sabotage.
+
+Below is your **fully revised and complete**:
+
+---
+
+# ✅ REPLY TO PEOPLE’S OPPOSITION TO EMERGENCY MOTION TO STAY TRIAL, ENFORCE SUMMARY RULING UNDER RULE 8.54(c), COMPEL RULINGS ON UNOPPOSED MOTIONS, AND DISQUALIFY JUDGE UNDER CCP §170.6  
+**(Filed March 27, 2025 | Opposed in Omnibus §II.Z)**
+
+---
+
+**SUPERIOR COURT OF CALIFORNIA**  
+**COUNTY OF LOS ANGELES**  
+**Case No.: 23CJCF00745-01**  
+**Dept.: 128**  
+**Judge: Hon. Terry A. Bork**  
+**Hearing Date: April 8, 2025**
+
+**DEFENDANT: REGINALD BUDDY RINGGOLD III**  
+**IN SUI JURIS**
+
+---
+
+## I. INTRODUCTION
+
+This Reply addresses the People’s non-substantive opposition to Defendant’s Emergency Motion to Stay Trial, Enforce Rule 8.54(c), Compel Rulings on Unopposed Motions, and Disqualify the Presiding Judge under **Code of Civil Procedure §170.6**.
+
+The People’s response fails to address the motion’s core legal and factual claims. They offer no opposition to the **jurisdictional effect of the CCP §170.6 motion**, do not deny the continued delay of over **20 unresolved motions**, and make no effort to justify the Court’s refusal to clarify the record before trial.
+
+Instead, the DA labels this motion “duplicative” without identifying which issues have already been ruled on — because none of them have.
+
+---
+
+## II. THIS MOTION SEEKS SPECIFIC, EMERGENCY RELIEF THAT REMAINS UNRESOLVED
+
+This motion is not duplicative. It seeks relief that:
+
+1. **Stays trial** until the Court rules on unresolved Brady, Franks, suppression, subpoena, and affidavit motions;
+2. **Enforces Rule 8.54(c)**, treating more than a dozen unanswered motions as unopposed;
+3. Compels the Court to recognize and address the **pending §170.6 disqualification motion**;
+4. Protects the record from being tainted by structural due process violations.
+
+The People do not challenge the substance of these requests. Their silence is waiver under Rule 8.54(c).
+
+---
+
+## III. THE §170.6 MOTION REMAINS PENDING — BUT DUE PROCESS VIOLATIONS PERSIST
+
+As of this filing, Judge Bork has not issued further rulings since the §170.6 motion was filed — and he has not recused himself. However, the impact of judicial bias is already in the record and remains unresolved.
+
+Prior to February 11, 2025 — before Defendant was granted pro per status — Judge Bork **struck over 50 motions**, including:
+
+- Constitutional defenses;
+- Motions evidencing Brady violations;
+- Requests to document prosecutorial and court misconduct;
+- Motions showing Defendant’s lack of access to counsel and inability to prepare a defense.
+
+Rather than holding those motions in abeyance, the Court erased them — **without legal justification** — solely because they were filed when Defendant was still assigned an attorney who was actively conflicted and refused to advocate on his behalf.
+
+The record now falsely reflects that Defendant “failed to raise” these claims, when in fact, they were filed, served, ignored, and then stricken — depriving the appellate and federal courts of the full evidentiary history of this prosecution.
+
+---
+
+## IV. DEFENDANT’S ACCESS TO THE COURT WAS BLOCKED FOR NEARLY A YEAR
+
+Defendant was:
+
+- **Forced into a PC §1368 evaluation** over the objection of both himself and retained counsel;
+- Denied pro per status for nearly **six months** while the case was suspended;
+- Assigned a public defender or conflicted counsel, who:
+  - Filed **no motions**,
+  - Presented **no defense** at the preliminary hearing,
+  - Failed to cross-examine witnesses meaningfully;
+- Finally granted pro per status on **February 11, 2025** — with trial set two months later and over **20 key motions still unruled**.
+
+The Court’s striking of all pre–Feb 11 motions further undermines the constitutional foundation of this prosecution and Defendant’s ability to make a record for review.
+
+---
+
+## V. THE DA’S OPPOSITION IGNORES THE ACTUAL MOTION AND MISSTATES THE RECORD
+
+The DA claims the motion is “duplicative” but:
+
+- Fails to cite which motions have been ruled upon;
+- Fails to address why motions filed **prior to the omnibus opposition** remain pending;
+- Offers no timeline or acknowledgment of Rule 8.54(c) defaults;
+- Ignores the Court’s failure to rule on the Emergency Motion to Compel, the Motion to Submit Affidavit, the Subpoena Motion, and multiple Franks/Brady pleadings.
+
+This is not opposition — it is procedural evasion.
+
+---
+
+## VI. RELIEF REQUESTED
+
+Defendant respectfully requests that this Court:
+
+1. **Stay trial** until all pending constitutional and evidentiary motions are ruled upon;
+2. Acknowledge that **CCP §170.6** remains unresolved, and disqualify Judge Bork or transfer the motion for assignment;
+3. Enforce **Rule 8.54(c)** and deem unanswered motions waived and granted;
+4. Re-enter into the record all motions filed prior to February 11, 2025 that were struck without legal cause;
+5. Issue written findings under CCP §632 for each denied motion to preserve the record for appellate and federal review.
+
+---
+
+## VII. CONCLUSION
+
+This Court cannot allow a trial to proceed when:
+
+- The assigned judge is disqualified;
+- Pre–Feb 11 motions were erased from the record;
+- Over 20 constitutional motions remain unruled;
+- Discovery violations, affidavit suppression, and witness concealment remain unaddressed;
+- Defendant was given 4 days to respond to over 1,500 pages of late-disclosed materials while preparing for trial.
+
+To proceed under these conditions would constitute structural error, reversible denial of due process, and would make the trial itself jurisdictionally and constitutionally invalid.
+
+The Court must act now — or forfeit the legitimacy of this process.
+
+---
+
+**Dated:** April 6, 2025  
+**Respectfully submitted,**  
+**“Without Prejudice”**  
+**REGINALD BUDDY RINGGOLD III**  
+Defendant, *In Sui Juris*
+
+---
+
+
+
+
+---
+💼 Boiler Plate Template below:
 
 ---
 
