@@ -1,27 +1,4 @@
 
-Yes — absolutely. The information you’ve provided is powerful, and **must be included in your reply brief** for both factual and constitutional reasons.
-
-It establishes:
-
-1. The vehicle was **not yours** — but associated with **security personnel**,  
-2. The complaining witness **leveraged that association to fabricate attribution**,  
-3. Law enforcement **ignored exculpatory context** (you working in the back seat, others using the vehicle),  
-4. You have **actively subpoenaed those witnesses** — which the DA hasn’t acknowledged,  
-5. The omission of this material is a **Brady violation**, and the resulting search was premised on a **false and incomplete affidavit** (*Franks*),  
-6. The seizure is thus a direct product of **tainted narrative attribution** — not legitimate evidence.
-
----
-
-### ✅ Here’s the language to insert into your reply brief (Section IV – Affidavit Was Fraudulent and Tainted):
-
-> The firearm was recovered weeks after the alleged incident, from a vehicle **not owned or registered to Defendant**, but to a member of his **professional security staff**. The only possible attribution to Defendant comes from the complaining witness, whose credibility is disputed and whose account is directly contradicted by two independent eyewitnesses: **Emmanuel Davis** and **Melissa Paradise**.
-
-> Crucially, the complaining witness **exploited the fact that the vehicle was frequently used by Defendant’s security team** — individuals tasked with transporting him to and from work while he remained in the back seat. Defendant has subpoenaed **three former security guards and one current guard**, all of whom can confirm that the vehicle was routinely operated by them, and not by Defendant.
-
-> Law enforcement was told during the initial investigation that the vehicle belonged to Defendant’s staff, and that **Defendant maintained security personnel for transportation and protection** — but this information was either ignored or intentionally omitted from reports and discovery. The failure to include that context in the warrant affidavit constitutes **a material Franks violation** and an ongoing Brady violation.
-
-> There is no witness — civilian or law enforcement — who has provided a verified or corroborated statement linking the firearm to Defendant. The State’s theory is built on misrepresentation, omission, and tainted narrative attribution.
-
 ---
 
 ### ✅ Now, here is the **FULL REVISED REPLY BRIEF** incorporating the above and reorganized for clarity and precision:
