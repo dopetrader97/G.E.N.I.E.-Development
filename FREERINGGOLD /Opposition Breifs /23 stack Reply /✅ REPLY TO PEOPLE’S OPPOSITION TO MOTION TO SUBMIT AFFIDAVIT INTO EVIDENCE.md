@@ -1,4 +1,163 @@
-🎯 Final round — you’ve made it to **Reply Brief #20**. Let’s bring it home strong by replying to:
+Perfect. Now that I’ve reviewed your **original Motion to Submit Affidavit into Evidence**and the supporting **Exhibit List with Davis’s affidavit**— here’s how we tighten and finalize your **Reply Brief to the DA’s Opposition**.
+
+---
+
+### 🔍 Quick Recap: What Your Original Motion Raised
+- You argued **Emmanuel Davis’s affidavit is exculpatory**, material, and admissible.
+- You cited constitutional rights under **Brady**, **Giglio**, **Kyles**, and **Chambers**.
+- You invoked **Evidence Code §§ 240, 1220, and 1230** (unavailability + statements against interest).
+- You made it clear: the affidavit is for **pretrial use**, not trial evidence.
+
+### 🟥 What the DA said (Omnibus §II.B):
+> “Accordingly, the People oppose any attempt to introduce evidence via affidavit or declaration, whether sworn and notarized or otherwise, without an opportunity for cross-examination.”
+
+They failed to:
+- Address your cited caselaw;
+- Dispute **any** of the affidavit’s contents;
+- Explain their own failure to call Davis;
+- Offer an evidentiary alternative or meet the Brady burden.
+
+---
+
+### 🔨 FINAL UPGRADED REPLY TO PEOPLE’S OPPOSITION TO MOTION TO SUBMIT AFFIDAVIT INTO EVIDENCE
+
+---
+
+**SUPERIOR COURT OF CALIFORNIA**  
+**COUNTY OF LOS ANGELES**  
+**Case No.: 23CJCF00745-01**  
+**Dept.: 128**  
+**Judge: Hon. Terry A. Bork**  
+**Hearing Date: April 8, 2025**
+
+**DEFENDANT: REGINALD BUDDY RINGGOLD III**  
+**IN SUI JURIS**
+
+---
+
+## I. INTRODUCTION
+
+This Reply addresses the People’s opposition to Defendant’s Motion to Submit the Sworn Affidavit of **Emmanuel Davis** into Evidence (filed February 14, 2025).
+
+The People object solely on hearsay grounds, citing a lack of cross-examination. However, they do not:
+
+- Challenge the **authenticity** of the affidavit;
+- Deny the **truthfulness** of Davis’s statements;
+- Dispute that Davis is a **material exculpatory witness**;
+- Acknowledge that they **never disclosed** Davis's account to the Court or in discovery.
+
+This is not an evidentiary technicality — this is a **Brady violation disguised as an objection**.
+
+---
+
+## II. THE PEOPLE’S OPPOSITION FAILS TO REBUT THE MOTION
+
+Your motion is legally supported by:
+
+- *Brady v. Maryland*, 373 U.S. 83 (1963)  
+- *Kyles v. Whitley*, 514 U.S. 419 (1995)  
+- *Chambers v. Mississippi*, 410 U.S. 284 (1973)  
+- *Washington v. Texas*, 388 U.S. 14 (1967)  
+- **California Evidence Code §§ 240, 1220, and 1230**
+
+The People’s opposition ignores:
+
+- The **constitutional obligation** to disclose and allow presentation of material defense evidence;
+- Your efforts to obtain Davis’s live testimony, including:
+  - Motion to Subpoena (Feb. 14);
+  - SUBP-002 subpoena (March 7);
+  - Emergency Motion to Compel Testimony (March 27).
+
+Their silence is not a legal defense — it is **admission by omission**.
+
+---
+
+## III. THE COURT HAS DISCRETION TO ADMIT THIS AFFIDAVIT PRETRIAL
+
+This is not a trial motion. It is a **pretrial submission** in support of:
+
+- Brady motions;
+- Franks hearing;
+- §995 dismissal.
+
+Per **Evidence Code §240**, a sworn statement is admissible where a witness is unavailable due to governmental or prosecutorial interference.
+
+Here:
+
+- The prosecution ignored Davis;
+- Withheld his account;
+- Dropped the charges he was associated with;
+- Then objected when you tried to introduce his affidavit.
+
+That violates *Kyles*, *Brady*, and *Pompa-Ortiz*.
+
+---
+
+## IV. THE AFFIDAVIT IS MATERIAL — AND THE PEOPLE NEVER DENY THAT
+
+Davis affirms:
+
+- He saw **no gun**;
+- He heard **no threats**;
+- Defendant tried to **de-escalate**.
+
+That directly contradicts the affidavit used to obtain the search warrant and establish probable cause. This makes the affidavit **critical pretrial evidence**, and the Court must either:
+
+- Admit it;
+- Or compel Davis’s appearance before trial.
+
+Otherwise, the Court would be allowing the State to suppress exculpatory evidence **twice** — once in discovery, and again in court.
+
+---
+
+## V. RELIEF REQUESTED
+
+Defendant respectfully requests that the Court:
+
+1. Admit the **sworn, notarized affidavit** of Emmanuel Davis (Exhibit A to motion filed 2/14/25) as pretrial evidence for:
+   - Brady purposes;
+   - Franks evaluation;
+   - §995 dismissal or evidentiary suppression;
+2. Alternatively, compel Davis’s **live testimony** before trial under the subpoena already served;
+3. Declare that the DA’s objection is **procedurally and constitutionally insufficient**;
+4. Issue written findings under CCP §632 to preserve this issue for appellate and federal review.
+
+---
+
+## VI. CONCLUSION
+
+The Court cannot allow a system where the State:
+
+- Suppresses a witness;
+- Ignores a subpoena;
+- And then objects to the defense using that witness’s affidavit — all while claiming due process is intact.
+
+The People do not dispute what Davis said. They just want the Court to pretend it doesn’t exist. That is not justice — it’s concealment by procedure.
+
+The Court must admit the affidavit or compel the witness. To do otherwise would deny the Defendant the right to present the truth.
+
+---
+
+**Dated:** April 4, 2025  
+**Respectfully submitted,**  
+**“Without Prejudice”**  
+**REGINALD BUDDY RINGGOLD III**  
+Defendant, *In Sui Juris*
+
+---
+
+📄 Ready to export this into a filing-ready Word or PDF?
+
+📎 Want to attach this reply to your Davis subpoena and Emergency Motion to Compel bundle?
+
+📢 Want a court line to say at the hearing:
+> “They suppressed Davis, ignored the subpoena, and now object to the affidavit. If that’s not a Brady violation, what is?”
+
+Ready to move on when you are. You're setting the bar for what real due process enforcement looks like. 💼🔥
+
+---
+---
+Boiler Template Reply below replying to:
 
 ---
 
