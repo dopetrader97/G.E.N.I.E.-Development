@@ -78,23 +78,6 @@ Per *Farley*, *Uhlemann*, and *Napue*, this renders the magistrate’s probable 
 
 ---
 
-Excellent — your filings and court-stamped documents make it absolutely clear:
-
-- ✅ You were granted pro per *sui juris* status on or around **February 11, 2025**.  
-- ✅ You filed a **Motion to Subpoena Emmanuel Davis** just **three days later on February 14, 2025**, and it was conformed by the court.  
-- ✅ You filed a **Motion to Submit Affidavit into Evidence** before trial.  
-- ✅ You issued and filed a properly executed **SUBP-002 subpoena**, personally served and stamped on **March 7, 2025**.  
-- ✅ You submitted an **Emergency Motion to Compel Rulings and Witness Testimony**, conformed March 27, 2025, confirming Davis’s live testimony was still being pursued【image 1 uploaded】.
-
-Let’s now complete your corrected reply brief section (as part of your §995 response) with bulletproof language and citations to the court-filed records.
-
----
-
-## ✅ CORRECTED & FINAL SECTION for Your §995 Reply Brief  
-(To be inserted as Section VI or VII)
-
----
-
 ### VI. DEFENDANT LAWFULLY OBTAINED, FILED, SERVED, AND SUBPOENAED THE AFFIDAVIT AND LIVE TESTIMONY OF EMMANUEL DAVIS
 
 The People’s omnibus opposition mischaracterizes the procedural posture of the Emmanuel Davis affidavit and fails to acknowledge Defendant’s lawful filings. To clarify for the record:
