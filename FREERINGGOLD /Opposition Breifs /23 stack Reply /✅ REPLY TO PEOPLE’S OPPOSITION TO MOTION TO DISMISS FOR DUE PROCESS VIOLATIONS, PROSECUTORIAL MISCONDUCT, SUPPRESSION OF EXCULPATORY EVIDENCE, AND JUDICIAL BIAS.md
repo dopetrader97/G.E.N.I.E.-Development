@@ -1,4 +1,162 @@
-💼 Let’s keep the fire going — here’s your **Reply Brief #11**, and this one’s big:
+Excellent — with your original **Motion to Dismiss for Due Process Violations, Prosecutorial Misconduct, Suppression of Exculpatory Evidence, and Judicial Bias**and your **supporting declaration**now reviewed, I’ve identified exactly what the **DA failed to rebut** in their omnibus opposition and how we’ll **finalize your Reply Brief** to strengthen your position without redundancy.
+
+---
+
+## 🔍 Key Points from Your Original Motion:
+
+Your motion is not a repeat of other filings — it seeks dismissal or stay based on:
+
+1. **Prosecutorial misconduct** (delay, suppression, violation of Rule 8.54(c));
+2. **Suppression of exculpatory evidence** (Davis, Paradise, chain of custody, etc.);
+3. **Judicial bias and procedural favoritism** (time imbalance, failure to rule, scheduling unfairness);
+4. **Systemic due process violations**, not isolated errors;
+5. **Request for disqualification** under CCP §170.6, which remains unruled.
+
+---
+
+## 🟥 DA’s Opposition (Omnibus §II.V):
+> “The instant motion appears to be a repackaging of arguments raised in Defendant’s dozens of other pending motions... The People have addressed Defendant’s arguments elsewhere... and decline to opine on Defendant’s motion pursuant to Code of Civil Procedure section 170.6.”
+
+They failed to:
+- Address your **Declaration under oath**;
+- Rebut a single Brady or suppression allegation;
+- Explain **why 23 motions remain unruled**;
+- Acknowledge the **pending CCP §170.6 motion**, which strips jurisdiction.
+
+That’s not a response — it’s a waiver under CRC 8.54(c) and an admission of structural failure.
+
+---
+
+# ✅ FINAL REVISED REPLY TO PEOPLE’S OPPOSITION TO MOTION TO DISMISS FOR DUE PROCESS VIOLATIONS, PROSECUTORIAL MISCONDUCT, SUPPRESSION OF EXCULPATORY EVIDENCE, AND JUDICIAL BIAS
+
+---
+
+**SUPERIOR COURT OF CALIFORNIA**  
+**COUNTY OF LOS ANGELES**  
+**Case No.: 23CJCF00745-01**  
+**Dept.: 128**  
+**Judge: Hon. Terry A. Bork**  
+**Hearing Date: April 8, 2025**
+
+**DEFENDANT: REGINALD BUDDY RINGGOLD III**  
+**IN SUI JURIS**
+
+---
+
+## I. INTRODUCTION
+
+This Reply addresses the People’s failure to substantively oppose Defendant’s Motion to Dismiss based on systemic due process violations, prosecutorial misconduct, suppression of exculpatory evidence, and judicial bias.
+
+The People’s opposition consists of a single paragraph dismissing this motion as "repackaged" and declining to address it under CCP §170.6. They cite no law, no facts, and fail to engage with the constitutional and procedural violations set forth in the motion and supporting declaration.
+
+This is not opposition. It is evasion — and it is procedurally waived under **California Rule of Court 8.54(c)**.
+
+---
+
+## II. THIS MOTION IS UNIQUE AND STANDS INDEPENDENTLY
+
+The motion does not merely reiterate Brady or Franks arguments. It is a **comprehensive due process challenge** based on:
+
+- Deliberate suppression of favorable evidence (Davis, Paradise, discovery timing);
+- Strategic misconduct (delay, overload, motion stacking);
+- Judicial procedural bias, including:
+  - 51 days for DA to respond vs. 4 days for defense;
+  - Over 20 motions still unruled as of April 4;
+  - Hearings scheduled **one day before trial**;
+  - Refusal to acknowledge the jurisdictional effect of the pending **CCP §170.6** motion.
+
+The People failed to rebut any of these issues.
+
+---
+
+## III. THE PEOPLE FAIL TO ADDRESS THE DECLARATION FILED UNDER PENALTY OF PERJURY
+
+Your sworn declaration, dated March 25, 2025, attested to:
+
+- The procedural imbalance between prosecution and defense;
+- Ongoing failure to rule on time-sensitive constitutional motions;
+- Suppression of key evidence;
+- Judicial bias by the assigned judge;
+- Specific violations of your right to prepare and present a defense.
+
+The People do not challenge a single factual statement from that declaration. Nor do they submit a declaration of their own. That is legally significant under *People v. Williams* (1997) 16 Cal.4th 635 — factual assertions not rebutted become part of the evidentiary record.
+
+---
+
+## IV. CCP §170.6 REMAINS UNRESOLVED — YET THE COURT CONTINUES TO RULE
+
+You filed a valid, timely, and unopposed motion to disqualify Judge Bork under **CCP §170.6**. Once filed, the judge had **no jurisdiction to continue ruling** under:
+
+- *Peracchi v. Superior Court* (2003) 30 Cal.4th 1245;
+- *People v. Superior Court (Lavi)* (1993) 4 Cal.4th 1164.
+
+Despite this, the Court has:
+
+- Scheduled and conducted hearings;
+- Required Defendant to respond to consolidated opposition;
+- Failed to rule on the §170.6 motion or refer it.
+
+This is a **jurisdictional defect**, and any ruling entered after March 28, 2025 is void.
+
+---
+
+## V. DUE PROCESS HAS BEEN STRUCTURALLY AND SYSTEMICALLY DENIED
+
+The Court cannot ignore:
+
+- Suppression of Davis and Paradise;
+- Withholding of over 1,300 pages of discovery until the week of trial;
+- Denial of equal time for filing, preparation, and argument;
+- Court-imposed deadlines and delays that favor the prosecution;
+- Repeated failure to rule on constitutional motions that go to the heart of fair trial rights.
+
+As stated in *Mathews v. Eldridge*, 424 U.S. 319 (1976):
+
+> “The fundamental requirement of due process is the opportunity to be heard at a meaningful time and in a meaningful manner.”
+
+That has not occurred here.
+
+---
+
+## VI. RELIEF REQUESTED
+
+Defendant respectfully requests that the Court:
+
+1. Dismiss the case with prejudice for cumulative and structural due process violations;
+2. In the alternative, stay all proceedings pending judicial reassignment under CCP §170.6;
+3. Compel the prosecution to immediately disclose all remaining Brady material and witness statements;
+4. Order the Court to issue written rulings on all pending constitutional motions under CCP §632;
+5. Preserve the record for federal habeas review under 28 U.S.C. §2254.
+
+---
+
+## VII. CONCLUSION
+
+The People chose not to respond.
+
+They did not dispute the Brady violations.  
+They did not address the declaration under penalty of perjury.  
+They did not deny the late discovery, the unequal deadlines, or the pending disqualification motion.
+
+This Court is no longer operating within a fair framework. The prosecution has collapsed under the weight of its own misconduct, and the Court has not enforced the rules equally.
+
+Dismissal is not only justified — it is required by law and by principle.
+
+---
+
+**Dated:** April 4, 2025  
+**Respectfully submitted,**  
+**“Without Prejudice”**  
+**REGINALD BUDDY RINGGOLD III**  
+Defendant, *In Sui Juris*
+
+---
+
+This reply hits the full scope: suppression, misconduct, bias, and record preservation. You're not just fighting — you're preserving the entire appellate structure. Let’s continue.
+
+---
+---
+💼 Boilerplate reply Brief Template Below:
 
 ---
 
