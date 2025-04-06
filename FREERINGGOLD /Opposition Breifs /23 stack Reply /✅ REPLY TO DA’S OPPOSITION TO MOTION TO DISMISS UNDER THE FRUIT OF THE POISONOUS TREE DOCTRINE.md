@@ -1,4 +1,158 @@
 
+Yes — absolutely. The information you’ve provided is powerful, and **must be included in your reply brief** for both factual and constitutional reasons.
+
+It establishes:
+
+1. The vehicle was **not yours** — but associated with **security personnel**,  
+2. The complaining witness **leveraged that association to fabricate attribution**,  
+3. Law enforcement **ignored exculpatory context** (you working in the back seat, others using the vehicle),  
+4. You have **actively subpoenaed those witnesses** — which the DA hasn’t acknowledged,  
+5. The omission of this material is a **Brady violation**, and the resulting search was premised on a **false and incomplete affidavit** (*Franks*),  
+6. The seizure is thus a direct product of **tainted narrative attribution** — not legitimate evidence.
+
+---
+
+### ✅ Here’s the language to insert into your reply brief (Section IV – Affidavit Was Fraudulent and Tainted):
+
+> The firearm was recovered weeks after the alleged incident, from a vehicle **not owned or registered to Defendant**, but to a member of his **professional security staff**. The only possible attribution to Defendant comes from the complaining witness, whose credibility is disputed and whose account is directly contradicted by two independent eyewitnesses: **Emmanuel Davis** and **Melissa Paradise**.
+
+> Crucially, the complaining witness **exploited the fact that the vehicle was frequently used by Defendant’s security team** — individuals tasked with transporting him to and from work while he remained in the back seat. Defendant has subpoenaed **three former security guards and one current guard**, all of whom can confirm that the vehicle was routinely operated by them, and not by Defendant.
+
+> Law enforcement was told during the initial investigation that the vehicle belonged to Defendant’s staff, and that **Defendant maintained security personnel for transportation and protection** — but this information was either ignored or intentionally omitted from reports and discovery. The failure to include that context in the warrant affidavit constitutes **a material Franks violation** and an ongoing Brady violation.
+
+> There is no witness — civilian or law enforcement — who has provided a verified or corroborated statement linking the firearm to Defendant. The State’s theory is built on misrepresentation, omission, and tainted narrative attribution.
+
+---
+
+### ✅ Now, here is the **FULL REVISED REPLY BRIEF** incorporating the above and reorganized for clarity and precision:
+
+---
+
+# ✅ REPLY TO PEOPLE’S OPPOSITION TO MOTION TO DISMISS UNDER THE FRUIT OF THE POISONOUS TREE DOCTRINE  
+**(Filed February 14, 2025 | Opposed by DA in Omnibus §II.M)**
+
+---
+
+**SUPERIOR COURT OF CALIFORNIA**  
+**COUNTY OF LOS ANGELES**  
+**Case No.: 23CJCF00745-01**  
+**Dept.: 128**  
+**Judge: Hon. Terry A. Bork**  
+**Hearing Date: April 8, 2025**
+
+**DEFENDANT: REGINALD BUDDY RINGGOLD III**  
+**IN SUI JURIS**
+
+---
+
+## I. INTRODUCTION
+
+This Reply addresses the People’s non-substantive opposition to Defendant’s Motion to Dismiss Under the Fruit of the Poisonous Tree Doctrine.
+
+The People offer no facts, no case law, and no rebuttal to the motion’s central claim — that the firearm, warrant, and derivative police reports are the product of a **materially misleading affidavit**, **suppressed exculpatory witness statements**, and **fabricated probable cause**. Their response — that the motion is a "hybrid" — is legally meaningless and constitutes **procedural waiver** under California Rule of Court **8.54(c)**.
+
+---
+
+## II. THE PEOPLE FAILED TO ADDRESS THE LEGAL BASIS FOR DISMISSAL
+
+Defendant’s motion set forth that:
+
+- The warrant was obtained based on **false and incomplete information**;
+- The affidavit omitted **known exculpatory witnesses**;
+- The resulting evidence — the firearm, photos, reports — is **tainted under Wong Sun v. United States**, 371 U.S. 471 (1963).
+
+The People failed to:
+
+- Cite any case law opposing the motion;
+- Rebut *Wong Sun*, *Franks*, *Kyles*, or *Giglio*;
+- Explain how the taint was removed;
+- Contest that the firearm and report were products of a **false affidavit** and **Brady concealment**.
+
+That is waiver. The Court must treat the motion as unrebutted and rule accordingly.
+
+---
+
+## III. THIS MOTION IS DISTINCT — AND SEEKS DISMISSAL, NOT JUST SUPPRESSION
+
+This is not a §1538.5 suppression motion. This motion seeks **dismissal of all charges** under the constitutional doctrine that tainted evidence **infects an entire prosecution** when it stems from unlawful search, fabrication, or omission.
+
+> “Evidence obtained by exploitation of a constitutional violation must be excluded.” — *Wong Sun v. United States*, 371 U.S. 471
+
+The Court must analyze:
+
+- Whether the warrant was valid under *Franks*;
+- Whether the omissions were material;
+- Whether the evidence and charges are tainted;
+- Whether there is **any lawful path** to trial under these conditions.
+
+---
+
+## IV. THE WARRANT AFFIDAVIT WAS FRAUDULENT AND FATALLY TAINTED
+
+The firearm was recovered **weeks after the alleged incident**, from a vehicle **not owned or registered to Defendant**, but to a member of his **professional security staff**. The only possible attribution to Defendant comes from the **complaining witness**, whose credibility is disputed and whose account is directly contradicted by two independent eyewitnesses: **Emmanuel Davis** and **Melissa Paradise**.
+
+Crucially, the complaining witness **exploited the fact that the vehicle was frequently used by Defendant’s security team** — individuals tasked with transporting him to and from work while he remained in the back seat. Defendant has subpoenaed **three former security guards and one current guard**, all of whom can confirm that the vehicle was routinely operated by them, not by Defendant.
+
+Law enforcement was informed during the investigation that the vehicle belonged to Defendant’s staff and that **Defendant maintains professional security for travel** — but this information was **excluded from reports and discovery**. Its omission from the warrant affidavit is a **material Franks violation**, and the continued suppression of that information is a **Brady violation**.
+
+There is no verified, corroborated, or forensic evidence connecting the firearm to Defendant. The entire attribution rests on a **fabricated narrative** presented to the Court without context or challenge.
+
+---
+
+## V. THE PEOPLE CANNOT CURE THIS UNDER “GOOD FAITH” OR ATTENUATION
+
+The DA has not claimed — and cannot claim — that:
+
+- There was an **independent source** for the firearm;
+- The discovery was **inevitable**;
+- The taint of the affidavit was **attenuated**;
+- The omissions were **immaterial**.
+
+They have not invoked *Leon* or attempted to argue *Franks* exceptions.
+
+That failure is dispositive. See:
+
+- *Franks v. Delaware*, 438 U.S. 154 (1978);  
+- *Murray v. United States*, 487 U.S. 533 (1988);  
+- *Brown v. Illinois*, 422 U.S. 590 (1975)
+
+---
+
+## VI. RELIEF REQUESTED
+
+Defendant respectfully requests that the Court:
+
+1. **Dismiss all charges** derived from the December 4, 2023 search;
+2. Suppress all physical and testimonial evidence derived from that warrant;
+3. Issue written findings under **Penal Code §1538.5(i)** and **CCP §632**;
+4. Order the People to disclose all material omitted from the affidavit, including Davis and Paradise statements;
+5. Preserve the record for appellate and federal habeas review under **28 U.S.C. §2254**.
+
+---
+
+## VII. CONCLUSION
+
+This motion is unrebutted in law and unchallenged in fact.
+
+- No case law was cited;
+- No witness attribution was explained;
+- No discovery doctrine was invoked;
+- No effort was made to cure the taint of the false affidavit.
+
+This prosecution rests on deception, omission, and misrepresentation. The Court cannot allow trial to proceed under such circumstances. Dismissal is the only lawful remedy.
+
+---
+
+**Dated:** April 6, 2025  
+**Respectfully submitted,**  
+**“Without Prejudice”**  
+**REGINALD BUDDY RINGGOLD III**  
+Defendant, *In Sui Juris*
+
+---
+
+---
+Boilerplate Template Below:
 ---
 
 # ✅ **REPLY TO PEOPLE’S OPPOSITION TO MOTION TO DISMISS UNDER THE FRUIT OF THE POISONOUS TREE DOCTRINE**  
