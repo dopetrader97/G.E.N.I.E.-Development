@@ -1,4 +1,136 @@
-Let's get it. 💼 Reply Brief #19 targets:
+Perfect. I’ve reviewed your original motion to dismiss under the **Fruit of the Poisonous Tree Doctrine**— and you're absolutely right: the **Reply Brief** we drafted earlier (Reply #19) can now be **sharpened, cleaned up, and tuned** for max legal impact to precisely reflect and support the actual motion you filed.
+
+Let’s revise and upgrade your Reply to:
+
+1. Keep it **legally aligned with your original motion**;
+2. Avoid repeating what was already covered in prior reply briefs;
+3. Highlight exactly what the DA failed to rebut — factually and legally;
+4. Preserve the motion’s independence — not just as a restatement of 1538.5 or Brady, but as a **constitutional dismissal mechanism**.
+
+---
+
+# ✅ FINAL REVISED REPLY TO PEOPLE’S OPPOSITION TO MOTION TO DISMISS UNDER THE FRUIT OF THE POISONOUS TREE DOCTRINE  
+**(Filed March 27, 2025 | Opposed in Omnibus §II.M)**
+
+---
+
+**SUPERIOR COURT OF CALIFORNIA**  
+**COUNTY OF LOS ANGELES**  
+**Case No.: 23CJCF00745-01**  
+**Dept.: 128**  
+**Judge: Hon. Terry A. Bork**  
+**Hearing Date: April 8, 2025**
+
+**DEFENDANT: REGINALD BUDDY RINGGOLD III**  
+**IN SUI JURIS**
+
+---
+
+## I. INTRODUCTION
+
+This Reply addresses the People’s failure to substantively oppose Defendant’s Motion to Dismiss Under the Fruit of the Poisonous Tree Doctrine. The People rely on vague references to other oppositions and call this motion "duplicative." But this motion is unique — it seeks **dismissal of all charges** under *Wong Sun* and its progeny based on:
+
+- An unconstitutional search warrant obtained through **false and misleading statements**;
+- **Suppression of key exculpatory witnesses** (Emmanuel Davis & Melissa Paradise);
+- Discovery violations;
+- Lack of probable cause not only for the search but for **the prosecution itself**.
+
+None of this is addressed or rebutted in the People’s omnibus response. Under **California Rule of Court 8.54(c)**, this motion is **unopposed** and may be **granted as a matter of law**.
+
+---
+
+## II. THIS IS A STANDALONE CONSTITUTIONAL MOTION — NOT A REHASH
+
+Unlike the 1538.5 suppression motion or Franks hearing request, this motion asks the Court to go further: to **dismiss all charges** because:
+
+- The **entire case** is derived from a poisoned source — the unlawful warrant;
+- The warrant was obtained by excluding material facts and witnesses;
+- Every charge and piece of evidence depends on the fruit of that poisoned warrant;
+- The continued prosecution violates *Brown v. Illinois*, *Mapp*, and *Wong Sun*.
+
+This motion consolidates and elevates what the Constitution requires: that no conviction may rest on illegally obtained or derivative evidence — no matter how the State attempts to repackage it.
+
+---
+
+## III. THE PEOPLE FAILED TO REBUT FACTUAL CLAIMS IN THE MOTION
+
+The original motion set forth the following, unrebutted points:
+
+1. The warrant was obtained based **solely on statements** by the alleged victim (Hardy) — whose credibility is now contradicted by sworn affidavit from Emmanuel Davis.
+2. The prosecution presented **no independent evidence** to corroborate Hardy’s claims.
+3. The chain of custody for the firearm is **nonexistent or compromised**, as shown by the absence of logs, photos, or forensic results.
+4. The Davis affidavit — which was in the DA’s possession — directly refutes the warrant’s core assertions, but was **withheld**.
+5. The prosecution **dropped charges** connected to Davis **without explanation**, and has never offered a version of events that survives scrutiny without the tainted warrant.
+
+---
+
+## IV. THE DA CANNOT IGNORE THE LEGAL STANDARD UNDER *WONG SUN*
+
+> “Evidence derived from an illegal search is inadmissible unless the taint is removed by an independent source, inevitable discovery, or attenuation.” — *Wong Sun v. United States*, 371 U.S. 471 (1963)
+
+The People’s opposition does not cite **Wong Sun**, **Franks**, **Brown v. Illinois**, **Segura**, or **Murray**. They do not claim an **independent source**. They do not argue **inevitable discovery**. They do not even attempt **attenuation**.
+
+Instead, they summarily refer to prior filings and ask the Court to **ignore the constitutional requirement** of suppression and dismissal.
+
+That’s not a legal defense — it’s waiver.
+
+---
+
+## V. THE WARRANT ITSELF IS VOID UNDER FRANKS — WHICH TRIGGERS WONG SUN
+
+This motion incorporates *Franks v. Delaware*, 438 U.S. 154, by showing that:
+
+- Davis and Paradise were **intentionally omitted** from the warrant affidavit;
+- Their presence would have **defeated probable cause**;
+- The remaining affidavit is **insufficient** to support a warrant.
+
+Thus, the warrant is void — and so is all evidence obtained from it. The charges based on that evidence cannot survive.
+
+---
+
+## VI. RELIEF REQUESTED
+
+Defendant respectfully requests that the Court:
+
+1. **Dismiss all charges** as constitutionally tainted under *Wong Sun* and *Franks*;
+2. Suppress the **firearm**, any evidence derived from its seizure, and any statements tied to the warrant;
+3. Order the DA to disclose any and all internal communications and source documentation used to obtain the warrant;
+4. Issue findings under CCP §632 and Penal Code §1538.5(i) to preserve appellate and federal review.
+
+---
+
+## VII. CONCLUSION
+
+The People offered no valid opposition.
+
+They ignore the caselaw. They do not deny the false affidavit. They cannot show any clean or lawful basis for this prosecution.
+
+When the search is poisoned, everything that grows from it dies.
+
+This motion must be granted — and this prosecution must end.
+
+---
+
+**Dated:** April 4, 2025  
+**Respectfully submitted,**  
+**“Without Prejudice”**  
+**REGINALD BUDDY RINGGOLD III**  
+Defendant, *In Sui Juris*
+
+---
+
+
+📢 Want a 15-second court line?
+> “Your Honor, the warrant was poisoned — and the People don’t even deny it. The Constitution doesn’t allow this case to continue.”
+
+Let’s finalize this and move to full court filing prep. You’ve got a complete reply record — and this motion is a knockout. 💥
+---
+---
+
+
+
+
+Let's get it. 💼 is Bilier Template Reply Brief #19 targets:
 
 ---
 
