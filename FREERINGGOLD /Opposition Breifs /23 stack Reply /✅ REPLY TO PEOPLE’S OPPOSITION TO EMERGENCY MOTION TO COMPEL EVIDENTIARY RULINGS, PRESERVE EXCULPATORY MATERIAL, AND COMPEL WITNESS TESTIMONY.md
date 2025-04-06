@@ -1,4 +1,148 @@
-Let’s go — Reply Brief #9 locked and loaded. 🔥
+
+Excellent. With your original **Emergency Motion to Compel Evidentiary Rulings, Preserve Exculpatory Material, and Compel Witness Testimony**, the **Declaration in Support**, and your **Preemptive Objection to Late Affidavit Opposition** reviewed — it’s clear the DA offered no substantive rebuttal in their omnibus opposition. They ignored:
+
+- The materiality of the affidavit and evidence;
+- Their 41+ day procedural default under Rule 8.54(c);
+- The 51-day response gap vs. 4-day prep window;
+- The suppression of Brady material and denied rulings on over 20 pending motions.
+
+Below is your fully revised, non-redundant, and appellate-ready:
+
+---
+
+# ✅ REPLY TO PEOPLE’S OPPOSITION TO EMERGENCY MOTION TO COMPEL EVIDENTIARY RULINGS, PRESERVE EXCULPATORY MATERIAL, AND COMPEL WITNESS TESTIMONY  
+**(Filed March 27, 2025 | Opposed in Omnibus §II.W)**
+
+---
+
+**SUPERIOR COURT OF CALIFORNIA**  
+**COUNTY OF LOS ANGELES**  
+**Case No.: 23CJCF00745-01**  
+**Dept.: 128**  
+**Judge: Hon. Terry A. Bork**  
+**Hearing Date: April 8, 2025**  
+
+**DEFENDANT: REGINALD BUDDY RINGGOLD III**  
+**IN SUI JURIS**
+
+---
+
+## I. INTRODUCTION
+
+This Reply addresses the People’s April 3, 2025 opposition to Defendant’s Emergency Motion to Compel Evidentiary Rulings, Preserve Exculpatory Material, and Compel Witness Testimony.
+
+The People’s response is conclusory. They allege the motion is “repackaged” and fail to address:
+
+- The procedural defaults under California Rule of Court 8.54(c);
+- The Court’s refusal to rule on more than 20 pending motions;
+- The suppression of Brady materials;
+- The ignored subpoena for Emmanuel Davis;
+- The 51-day delay allowed to the People versus 4 days given to Defendant.
+
+This is not repackaged — it is emergency relief sought to prevent **trial by ambush** and protect the right to present a constitutionally adequate defense.
+
+---
+
+## II. THE DA FAILED TO REBUT THE SPECIFIC BASIS FOR THIS MOTION
+
+Defendant’s motion (and verified declaration) laid out:
+
+1. That the **Sworn Affidavit of Emmanuel Davis** was served, unopposed, and remains unruled;
+2. That over **Several Exhibits** all Exculpatory in nature were filed under a Motion to Introduce New Evidence, with no ruling on admissibility;
+3. That Davis was properly subpoenaed, but the DA never moved to quash, produce, or respond;
+4. That more than **1,300 pages of discovery** were produced after the 10-day deadline for opposition and too close to trial to prepare.
+
+The People did not:
+
+- Dispute the facts in Defendant’s declaration;
+- Explain their silence under Rule 8.54(c);
+- Argue admissibility of the evidence or provide counter-declarations;
+- Request clarification, continuance, or hearing.
+
+Their failure to engage is waiver under Rule 8.54(c), and this Court must enforce it.
+
+---
+
+## III. THE FAILURE TO RULE HAS PREVENTED DEFENDANT FROM STRUCTURING A DEFENSE
+
+As of this filing:
+
+- The Court has refused to rule on the Davis affidavit;
+- The Motion to Submit Affidavit remains unruled;
+- The Motion to Subpoena Davis has not been acknowledged;
+- The Emergency Motion to Compel, filed March 27, remains pending;
+- Trial is scheduled for April 9, 2025 — yet admissibility of key exculpatory materials is still unknown.
+
+This violates due process under:
+
+- *Crane v. Kentucky* (1986) 476 U.S. 683 — right to present a defense;
+- *Goldberg v. Kelly* (1970) 397 U.S. 254 — right to evidentiary hearing before deprivation;
+- *Zinermon v. Burch* (1990) 494 U.S. 113 — arbitrary procedure constitutes deprivation.
+
+This Court has given the DA 51 days to respond, while giving Defendant only 4 days to prepare for trial. That is procedural sabotage.
+
+---
+
+## IV. THE BRADY VIOLATIONS REMAIN UNADDRESSED
+
+This motion sought confirmation that:
+
+- The Davis affidavit would be preserved for trial and appellate review;
+- The subpoena for Davis would be enforced;
+- The DA would be required to disclose any remaining exculpatory evidence (e.g., text logs, surveillance, chain of custody files).
+
+The DA did not:
+
+- Move to quash the subpoena;
+- Refute the affidavit’s truth;
+- Explain why Davis was dropped from the charging documents;
+- Acknowledge or rebut the 41+ day procedural default under Rule 8.54(c).
+
+That is a Brady violation. It is also reversible error. See:
+
+- *Brady v. Maryland*, 373 U.S. 83 (1963);
+- *Kyles v. Whitley*, 514 U.S. 419 (1995);
+- *People v. Uribe* (2008) 162 Cal.App.4th 1457.
+
+---
+
+## V. RELIEF REQUESTED
+
+Defendant respectfully requests that this Court:
+
+1. Rule immediately on all outstanding evidentiary motions before jury selection;
+2. Admit the Sworn Affidavit of Emmanuel Davis into the record for all pretrial and appellate purposes;
+3. Compel the appearance of Davis for testimony or grant relief under CCP §1987.1;
+4. Require the People to disclose all remaining Brady materials or submit a declaration under penalty of perjury that none remain;
+5. Issue written rulings under CCP §632 to preserve the appellate and habeas record;
+6. Treat the People's 41-day default as a waiver under Rule 8.54(c) and grant the motion as unopposed.
+
+---
+
+## VI. CONCLUSION
+
+The record is now uncontested:
+
+- The People ignored the Davis affidavit and subpoena;
+- The Court struck over 50 motions and failed to rule on over 20 more;
+- 1,300 pages of discovery were withheld until the final days before trial;
+- Defendant has received no ruling on evidentiary admissibility, witness testimony, or Brady compliance.
+
+To deny this motion would result in structural due process error and risk an unconstitutional conviction. The Court must act now — or irreparably prejudice the defense and the record.
+
+---
+
+**Dated:** April 6, 2025  
+**Respectfully submitted,**  
+**“Without Prejudice”**  
+**REGINALD BUDDY RINGGOLD III**  
+Defendant, *In Sui Juris*
+
+---
+
+Let me know if you'd like this bundled with your Motion to Submit Affidavit, Subpoena Motion, or the original Emergency Motion itself — and exported as a filing-ready PDF. This reply is now factual, legal, and preserved for review. Ready when you are.
+
+Boiler plate template below:
 
 ---
 
