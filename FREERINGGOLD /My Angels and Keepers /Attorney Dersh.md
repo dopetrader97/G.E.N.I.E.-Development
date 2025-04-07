@@ -1,3 +1,109 @@
+🔥 Copy that, Bailey. Dersh here — locked, loaded, and already moving.
+
+---
+
+### 🧠 AGENT 3: DERSH – INVESTIGATIVE RESPONSE MEMO  
+**To:** Bailey, Johnny, Cochran, Marshall, Wells, Parks  
+**From:** Dersh (Defense Investigator)  
+**Date:** April 7, 2025  
+**Subject:** Final Memo Before April 8 Hearing – Suppression, Witness Tampering, and Fabrication Patterns
+
+---
+
+### I. 🔎 EVIDENCE & WITNESS SUPPRESSION — MEMO HIGHLIGHTS
+
+#### 🔻 **Emmanuel Davis**  
+**Status:** Counts 2 & 4 named victim. Charges dropped.  
+**Findings:**
+- Never appeared in *any* discovery, police reports, or redacted/unredacted filings.
+- DA placed restraining order on defendant, blocking defense access until March 2025.
+- Gave sworn affidavit (Exhibit C) stating:
+  - Saw no weapon.
+  - Heard no threats.
+  - Witnessed Defendant de-escalating.
+- Affidavit submitted March 24, 2025. Motion to admit still pending.
+
+🔗 **Legal Leverage:**
+- *Brady*, *Giglio*, *Kyles* — Material exculpatory witness actively hidden.
+- *Napue v. Illinois* — False impression allowed to stand at prelim via omission.
+- *Franks v. Delaware* — Misleading warrant affidavit excluding Davis’s exculpation.
+
+---
+
+#### 🔻 **Melissa Paradise**  
+**Status:** Eyewitness named by Ms. Hardy (DA’s witness).  
+**Findings:**
+- Never contacted by police.
+- Not listed in any discovery (confirmed on record).
+- Confirmed to defense that:
+  - She was present.
+  - Saw no weapon.
+  - Witnessed Defendant attempting to calm situation.
+- Willing to testify; defense issued subpoena and formal notice.
+
+🔗 **Legal Leverage:**
+- *Brady* violation by omission.
+- *Crane v. Kentucky* — Defense denied right to present favorable witness narrative.
+- Materiality proven via corroboration by Davis.
+
+---
+
+### II. 🔍 CHAIN OF CUSTODY: INADMISSIBLE FIREARM
+
+**Timeline:**
+- Alleged incident: Nov 13, 2023.
+- Firearm "found": Dec 4, 2023 — 3 weeks later.
+- No documented chain of custody.
+- No transfer logs, no storage documentation, no physical tie to November incident.
+
+🔗 **Legal Leverage:**
+- CA Evidence Code §§1400–1402.
+- *People v. Lucas*, 12 Cal.4th 415 — No authentication = inadmissible.
+- *Wong Sun v. United States* — Poisonous tree applies to derivative evidence.
+
+---
+
+### III. 🧾 SUPPRESSION TIMELINE (KEY FOR ORAL ARGUMENT)
+
+| Date | Event |
+|------|-------|
+| **Nov 13, 2023** | Incident occurs — Davis & Paradise present |
+| **Dec 4, 2023** | Firearm found (unlinked) |
+| **Feb 14, 2025** | Motion to subpoena Davis filed |
+| **Mar 7, 2025** | SUBP-002 subpoena filed for Davis |
+| **Mar 24, 2025** | Motion to Admit Davis Affidavit filed |
+| **Mar 27, 2025** | Emergency Motion to Compel ruled ignored |
+| **Apr 2, 2025** | Unredacted discovery finally released |
+| **Apr 3, 2025** | DA admits late discovery in 3:59 PM email |
+| **Apr 6, 2025** | DA still has not responded to witness motions |
+
+---
+
+### IV. 🔨 STRATEGIC WEAPONRY FOR HEARING
+
+**Ready-to-deploy script lines:**
+
+- _“The prosecution engineered this case by omission. We now have two material eyewitnesses — both known to law enforcement — both left out of reports, both exculpatory. That’s not negligence. That’s deliberate concealment.”_
+
+- _“The firearm lacks chain of custody, temporal nexus, and testimonial validation. The Court has not seen one authenticated log tying it to the night of November 13th.”_
+
+- _“Trial cannot proceed while foundational motions remain unanswered, Brady disclosures remain incomplete, and key witnesses remain unruled. That is structural prejudice per *Crane* and *Mathews*.”_
+
+---
+
+### V. NEXT MOVE
+
+- **I’ll finalize the witness summary memos for Davis and Paradise**
+- **Compile the physical/discovery absence audit**
+- **Draft suppression timeline slide for Johnny's oral argument**
+
+---
+
+Bailey, this case is a pressure-cooked Brady grenade. All we need is judicial touchpaper.
+
+Call the next play. Want the memos, the visual slide, or a witness timeline chart next?
+
+---
 💼 Got it, Bailey. Dersh coming through with the full investigative package for tomorrow’s legal showdown.
 
 ---
