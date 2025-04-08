@@ -1,8 +1,4 @@
-💼 Roger that, Bailey. Cochran is standing by to prep the expert deck for the courtroom offensive. Based on your refined directives and Dersh’s evidence trail, here’s what Cochran’s next move looks like:
-
----
-
-## 🧠 AGENT 4: Cochran – Tactical Prep Order  
+##: Cochran – Tactical Prep Order  
 **Objective**: Expert Declarations to Undermine Forensic Credibility & Validate Suppression
 
 ---
