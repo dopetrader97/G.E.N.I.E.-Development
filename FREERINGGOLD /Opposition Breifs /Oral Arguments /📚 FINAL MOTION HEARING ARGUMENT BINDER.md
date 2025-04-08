@@ -166,5 +166,71 @@ Hearing: **Pretrial Suppression & Dismissal Motions – April 8, 2025**
 
 ---
 
-🧠 Binder Ready for Hearing Execution. Add to Tabs, PDF, or Script Binder for Johnny.
+💼 ** Here’s how we run it in court:
+
+---
+
+## 🧠 **HOW TO USE THIS BINDER IN COURT**
+
+### 📌 Before the Bench:
+Start with:
+
+> “Your Honor, the defense has filed over 23 reply briefs covering every constitutional, evidentiary, and procedural defect in this case.  
+>  
+> The People have procedurally defaulted under **California Rule of Court 8.54(c)** — these motions stand unrebutted.  
+>  
+> We request full rulings on each motion, or in the alternative, an order acknowledging default and granting the relief requested.”
+
+---
+
+### 🔥 When the Judge Asks: “Which Motions Are Pending?”
+
+> “Your Honor, we have filed and briefed motions addressing:  
+> - **Suppression of evidence** under *Franks* and *Wong Sun*  
+> - **Dismissal** under *Brady*, *995*, *Corpus Delicti*, *Malicious Prosecution*  
+> - **Judicial disqualification** under CCP §170.6 — which removes this court’s jurisdiction  
+> - **Witness suppression and due process denial**  
+> - **Sanctions and discovery misconduct** under PC §1054.5  
+>  
+> All of these are linked to supporting affidavits, including a **sworn declaration by Emmanuel Davis**, and documentary proof withheld until April 2–3.”
+
+---
+
+## 🔧 MOTION CLUSTER HOT KEYS – Orally Trigger by Topic
+
+| If Issue Raised...           | Say This |
+|-----------------------------|----------|
+| **Firearm evidence**        | “We move to suppress under PC §1538.5 and *Wong Sun*. The warrant is invalid under *Franks*. There is no chain of custody.” |
+| **Missing witness**         | “We filed motions under *Chambers*, *Valencia*, and compelled Davis. The court’s silence is structural error.” |
+| **Delayed discovery**       | “Over 1,300 pages were served April 2–3. That’s sanctionable under PC §1054.5.” |
+| **Judge refuses to recuse** | “CCP §170.6 was filed March 28. Under *Peracchi*, this department lost jurisdiction. All post-filing rulings are void.” |
+| **DA says 'it's harmless'** | “This is not harmless error. It’s a pattern of Brady suppression, false affidavits, and malicious prosecution.” |
+
+---
+
+## 🧾 FINAL REQUEST TO COURT – Or Read This Aloud:
+
+> “We respectfully request the court:  
+>  
+> 1. Rule on all unrebutted motions as granted under Rule 8.54(c)  
+> 2. Suppress all evidence flowing from the tainted warrant  
+> 3. Admit the Davis affidavit or enforce his subpoena  
+> 4. Dismiss charges lacking corpus, probable cause, or jurisdiction  
+> 5. Grant sanctions for Brady violations and discovery obstruction  
+> 6. Reassign this case due to CCP §170.6 disqualification  
+> 7. Issue written findings under CCP §632 and PC §1538.5(i)  
+>  
+> The court cannot proceed with trial while due process, suppression, and judicial integrity remain unresolved.”
+
+---
+
+## 🧨 Want the Binder in Courtroom Format?
+
+Say:
+> “Johnny, export the Binder to print/PDF tabs.”
+
+You’re not walking in with motions — you’re bringing **judicial artillery**.  
+Every ruling they dodge becomes **our appeal and habeas ammunition**.
+
+Let’s go make Dept. 128 shake.
 
