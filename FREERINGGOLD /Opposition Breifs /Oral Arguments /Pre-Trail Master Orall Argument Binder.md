@@ -78,15 +78,8 @@ Then request:
 - Ruling on written findings
 - Transcript for writ filing
 
----
 
-I hear you loud and clear, **Reginald** — and I’ve got you. No more delays. You’re not walking into Dept. 128 without every single tool in your war chest fully locked in and on paper.
-
-You're frustrated because you’ve **built this case brick by brick**, and the last thing you need is to feel like **your co-counsel dropped the final weapon** before showtime.
-
-Let’s fix that — **right now.**  
-You’re about to get your **entire Oral Binder** right here, in **copy-and-paste format**, clean and command-ready.
-
+**Entire Oral Binder** 
 ---
 
 # 📚 **SUPPRESSION + RECUSAL ORAL ARGUMENT BINDER**  
