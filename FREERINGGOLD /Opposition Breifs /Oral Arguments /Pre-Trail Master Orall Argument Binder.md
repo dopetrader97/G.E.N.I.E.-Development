@@ -49,7 +49,7 @@ Let me now provide:
 
 | Witness | Use in Court | Argument Anchor |
 |--------|---------------|-----------------|
-| **Emmanuel Davis** | Exculpatory Brady/Franks | “Was never contacted. Will testify no threat, no gun. Was restrained by court order while being falsely cited in the complaint.” |
+| **Emmanuel Davis** | Exculpatory Brady/Franks | “Was contacted but exculpatory testimony withheld. Will testify no threat, no gun. Was restrained by court order while being falsely cited in the complaint.” |
 | **Melissa Paradise** | Brady material + probable cause collapse | “Was named by DA’s own witness as a target, but was never interviewed. Will testify defendant de-escalated and had no weapon.” |
 
 > **Position: These two destroy the DA’s theory. Their exclusion was suppression. Their testimony collapses probable cause.**
