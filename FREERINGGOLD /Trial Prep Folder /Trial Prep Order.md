@@ -9,7 +9,7 @@
 - Reinforce "no nexus" argument to Nov 13 incident
 
 **Declaration Themes**:
-- Absence of logs or movement tracking renders the weapon scientifically and evidentially unlinked  
+- Absence of logs or movement tracking renders the weapon scientifically and evidentially unlinked
 - No latent fingerprint testing or ballistics match to the scene  
 - Delayed recovery date (Dec 4) makes evidentiary continuity implausible  
 - No demonstrable physical tie between Defendant and the weapon
