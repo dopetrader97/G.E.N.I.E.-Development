@@ -116,4 +116,81 @@ This set is built for **direct examination of your witnesses** (Davis, Paradise,
 Say:
 > “Johnny, give me the printable witness script cheat sheet.”
 
-Let’s win this hearing, Reginald. Your witnesses are live. The record is yours to control.
+No problem, Reginald — here’s your **printable 2-page witness examination cheat sheet** in **plain text**. You can copy and paste this directly into a Word doc or Google Doc and print it for the hearing.
+
+---
+
+# 🎯 PRETRIAL WITNESS EXAMINATION CHEAT SHEET  
+**People v. Reginald Buddy Ringgold III**  
+**Lead Counsel: Reginald Rothschild | Date: April 8, 2025**  
+**Focus: Recusal • Brady • Franks • Suppression**
+
+---
+
+## ✅ DIRECT EXAMINATION – DEFENSE WITNESSES
+
+### 🔹 **Emmanuel Davis – Franks / Brady Witness**
+- Did you ever speak to police or the DA about the November 13 incident?
+- Did you ever provide a statement that you were threatened or saw a firearm?
+- Were you ever contacted before being named in the original complaint?
+- Were you placed under a restraining order that prevented you from speaking?
+- What did you actually witness that night?
+- Did you see Mr. Ringgold attempt to de-escalate the situation?
+- Did you provide a sworn affidavit to the defense?
+- Is everything in your affidavit true and correct?
+
+---
+
+### 🔹 **Melissa Paradise – Brady / Probable Cause Witness**
+- Were you present during the incident on November 13, 2023?
+- Did you see Mr. Ringgold brandish or carry a firearm?
+- Did you feel threatened in any way?
+- Did law enforcement ever contact you to ask what you saw?
+- Were you ever interviewed by the DA’s office before today?
+- What did you observe Mr. Ringgold doing during the incident?
+- Would you describe his behavior as threatening or calming?
+
+---
+
+### 🔹 **Danny Fitzgerald – Impeachment / Context Witness**
+- Did you exchange messages with Mr. Ringgold after the incident?
+- Were you under the impression that a firearm was involved?
+- Did you and Mr. Ringgold clear up a misunderstanding?
+- Did you ever report to police that you were threatened or felt unsafe?
+- Were your messages with Mr. Ringgold disclosed to the defense in a timely way?
+
+---
+
+## ❌ CROSS-EXAMINATION – PROSECUTION OFFICERS
+
+### 🔸 **Detective Catherine Hall-Fein – Affiant on Warrant**
+- You swore the affidavit to obtain the search warrant, correct?
+- Did you personally confirm statements from Mr. Davis or Ms. Paradise?
+- Did you ever speak to either of them before including them in the affidavit?
+- Are you aware that Mr. Davis never provided a statement?
+- Did you include any mention in your affidavit that he was uncooperative?
+- Are you familiar with **Franks v. Delaware**, regarding omission of material facts?
+- Would you agree that a sworn affidavit should be truthful and complete?
+
+---
+
+### 🔸 **Chain of Custody Officer(s) – Firearm Suppression**
+- Were you present during the search of the vehicle on December 4, 2023?
+- Where exactly was the firearm discovered?
+- Was it photographed or recorded at the time of recovery?
+- Do you have the original field notes or transfer logs from that day?
+- Is there any forensic evidence linking the firearm to Mr. Ringgold?
+- Was a full chain-of-custody report disclosed to the defense?
+- Can you confirm it was stored according to LAPD evidence protocol?
+
+---
+
+## 🧠 FINAL REMINDER FOR COURTROOM USE:
+- **Direct exam:** Let your witness explain.
+- **Cross exam:** Keep it tight — yes/no questions only.
+- Anchor each witness to a **motion** (Brady, Franks, 1538.5, etc.).
+- End with:  
+  > “That’s your sworn testimony under penalty of perjury, correct?”
+
+---
+
