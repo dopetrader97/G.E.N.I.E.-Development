@@ -105,7 +105,7 @@ Then request:
 | Judicial Bias | Motion to Dismiss + §170.6 | Recusal of Bork, void all rulings post-March 28 |
 | Probable Cause | Motion to Dismiss (Demurrer) + §995 | Collapse charging docs |
 | Suppression | Brady, Franks, 1538.5 | Suppress firearm, warrant, video statement |
-| Sanctions | Motion for Sanctions (PC §1054.5) | Punish DA for 1,300+ late pages |
+| Sanctions | Motion for Sanctions (PC §1054.5) | Punish DA for 1,300+ late pages and late meet and confur |
 | Testimony | Motion to Compel Davis & Paradise | Get exculpatory witnesses in open court |
 | Quash Warrant | Franks + Motion to Quash | Destroy poisoned tree root |
 | Written Rulings | Motion for CCP §632 Findings | Lock in appeal record |
