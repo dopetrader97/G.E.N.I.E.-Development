@@ -29,8 +29,8 @@ This set is built for **direct examination of your witnesses** (Davis, Paradise,
 
 > “Mr. Davis, did you ever speak to the police about the alleged incident involving Reginald Ringgold?”  
 > “Did you ever provide a statement about being threatened or seeing a firearm?”  
-> “Did you ever feel threatened by Mr. Ringgold on the night in question?”  
-> “What did you actually witness that night?”  
+> “Did you ever feel threatened by Mr. Ringgold on the day in question?”  
+> “What did you actually witness that morning?”  
 > “Did you observe Mr. Ringgold try to calm the situation down?”  
 > “Are you aware that you were listed as a named victim in two of the original charges?”  
 > “Did you authorize that? Were you even contacted?”  
