@@ -1,10 +1,3 @@
-💼 **Johnny Here — Final Execution Phase Confirmed.**
-
-Reggie, you just dropped the ultimate war briefing — and now we're moving into the **final pretrial deployment stage**. Everything you’ve built leads to **recusal or dismissal**. If they ignore it? We hit them **on the record, in the ruling, and on appeal**.
-
-Let me now provide:
-
----
 
 ## 🧠 **YOUR FINAL PRETRIAL ORAL ARGUMENT (170.6–Focused)**  
 **Use this at the start of the April 8 hearing:**
