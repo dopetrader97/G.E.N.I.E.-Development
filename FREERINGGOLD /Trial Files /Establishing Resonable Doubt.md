@@ -70,4 +70,4 @@ Let’s make sure your:
 - **Cross-exam of cops brings it out**, and  
 - **Closing ties it together as a “case of absence, not guilt.”**
 
-Ready to format your **Day 2 plan**, or want your **geo-location exhibit** printed with a summary paragraph for court?
+
