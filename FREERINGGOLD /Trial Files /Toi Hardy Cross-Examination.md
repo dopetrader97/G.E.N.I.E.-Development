@@ -28,9 +28,9 @@ Let’s hammer them out:
 
 ### 🔹 II. Lease, Rent, and Lifestyle
 
-> “Isn’t it true I was the only person listed on the lease for the 6435 Weidlake property?”
+> “Isn’t it true I was listed on the lease as guantor for the 6435 Weidlake property?”
 
-> “Did you ever pay rent for that property — or was I covering the full $30,000 a month?”
+> “Did you ever pay rent for that property — or was I covering the full $30,000 a month until I was removed?”
 
 > “Were you aware that while you were staying in the house, I was sleeping out of a storage unit?”
 
@@ -52,7 +52,7 @@ Let’s hammer them out:
 
 ### 🔹 IV. The Weapon + False Narrative
 
-> “Did you ever personally see me holding a firearm?”
+> “Did you ever personally see me holding a firearm?” 
 
 > “Can you point to any photo, text, or video where I made a threat with a weapon?”
 
