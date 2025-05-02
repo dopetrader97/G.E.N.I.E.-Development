@@ -1379,6 +1379,289 @@ Run these commands in your terminal, usually from the directory containing your 
 
 ---
 
+REQURIEMNTS
+
+redis>=6.0.0
+jsonschema>=4.23.0
+
+---
+
+QuantTower Listener.py:
+
+import redis
+import json
+import os
+import time
+import logging
+import threading
+from jsonschema import validate, ValidationError
+
+# --- Configuration ---
+REDIS_HOST = os.environ.get("REDIS_HOST", "localhost")
+REDIS_PORT = int(os.environ.get("REDIS_PORT", 6379))
+REDIS_PASSWORD = os.environ.get("REDIS_PASSWORD", None)
+
+LISTEN_CHANNEL = "genie.signal.execution"
+FILL_CHANNEL = "genie.execution.fill"
+EXTERNAL_FILL_CHANNEL = "quanttower.execution.fill" # Channel for fills coming FROM QuantTower
+
+LOG_FORMAT = 	"%(asctime)s level=%(levelname)s component=QuantTowerListener %(message)s"
+logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
+logger = logging.getLogger(__name__)
+
+RECONNECT_DELAY_SECONDS = 5
+
+# --- JSON Schema for Trade Signal Validation ---
+TRADE_SIGNAL_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "timestamp": {"type": "string"},
+        "account_id": {"type": "string"},
+        "symbol": {"type": "string"},
+        "side": {"type": "string", "enum": ["BUY", "SELL"]},
+        "quantity": {"type": "number"},
+        "order_type": {"type": "string", "enum": ["MARKET", "LIMIT"]},
+        "agent": {"type": "string"},
+        "confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+        "risk_override": {"type": "boolean"},
+        "route_id": {"type": "string"} # Assuming route_id identifies the target (e.g., QuantTower instance)
+    },
+    "required": [
+        "timestamp", "account_id", "symbol", "side", "quantity", "order_type", "agent", "confidence", "risk_override", "route_id"
+    ]
+}
+
+# --- Redis Connection Handling ---
+def connect_redis():
+    """Establishes connection to Redis with retry logic."""
+    while True:
+        try:
+            logger.info(f"event=redis_connect_attempt host={REDIS_HOST} port={REDIS_PORT}")
+            r = redis.Redis(
+                host=REDIS_HOST,
+                port=REDIS_PORT,
+                password=REDIS_PASSWORD,
+                decode_responses=True, # Decode responses to strings
+                socket_connect_timeout=5,
+                socket_keepalive=True
+            )
+            r.ping() # Check connection
+            logger.info(f"event=redis_connect_success host={REDIS_HOST} port={REDIS_PORT}")
+            return r
+        except redis.exceptions.ConnectionError as e:
+            logger.error(f"event=redis_connect_failed error='{e}' host={REDIS_HOST} port={REDIS_PORT} details='Retrying in {RECONNECT_DELAY_SECONDS}s'")
+            time.sleep(RECONNECT_DELAY_SECONDS)
+        except Exception as e:
+            logger.error(f"event=redis_connect_unexpected_error error='{e}' host={REDIS_HOST} port={REDIS_PORT} details='Retrying in {RECONNECT_DELAY_SECONDS}s'")
+            time.sleep(RECONNECT_DELAY_SECONDS)
+
+# --- Signal Processing ---
+def process_signal(redis_client, message_data):
+    """Processes a single incoming trade signal."""
+    signal_id = None # Placeholder for a unique ID if available in message
+    try:
+        signal = json.loads(message_data)
+        signal_id = signal.get("signal_id", "unknown") # Attempt to get a unique ID if present
+        logger.info(f"event=signal_received signal_id={signal_id} raw_data='{message_data}'")
+
+        # 1. Validate Schema
+        validate(instance=signal, schema=TRADE_SIGNAL_SCHEMA)
+        logger.info(f"event=signal_validation_success signal_id={signal_id}")
+
+        # 2. Publish SUBMITTED status (Simulating submission to execution venue)
+        # In a real scenario, this is where you'd interact with QuantTower's API/bridge
+        # For now, we just acknowledge receipt and publish SUBMITTED
+        feedback = {
+            "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S.%fZ", time.gmtime()),
+            "signal_id": signal_id, # Include original signal ID if possible
+            "account_id": signal.get("account_id"),
+            "symbol": signal.get("symbol"),
+            "order_id": f"QT_{signal_id}_{time.time_ns()}", # Example simulated order ID
+            "status": "SUBMITTED",
+            "message": "Signal received and validated by QuantTower Listener."
+        }
+        redis_client.publish(FILL_CHANNEL, json.dumps(feedback))
+        logger.info(f"event=feedback_published status=SUBMITTED signal_id={signal_id} channel={FILL_CHANNEL}")
+
+        # TODO: Add logic here to actually send the order via QuantTower's API or specific bridge mechanism
+        # This might involve another Redis publish, an HTTP request, or a direct library call
+        # depending on how QuantTower integration is set up.
+        logger.info(f"event=order_submission_simulated signal_id={signal_id} route_id={signal.get('route_id')}")
+
+    except json.JSONDecodeError as e:
+        logger.error(f"event=signal_processing_error type=json_decode_error error='{e}' raw_data='{message_data}'")
+        feedback = {
+            "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S.%fZ", time.gmtime()),
+            "signal_id": signal_id if signal_id else "parse_error",
+            "status": "ERROR",
+            "message": f"Failed to parse JSON signal: {e}"
+        }
+        redis_client.publish(FILL_CHANNEL, json.dumps(feedback))
+        logger.info(f"event=feedback_published status=ERROR signal_id={signal_id if signal_id else 'parse_error'} channel={FILL_CHANNEL}")
+
+    except ValidationError as e:
+        logger.error(f"event=signal_processing_error type=validation_error error='{e.message}' path='{list(e.path)}' signal_id={signal_id} raw_data='{message_data}'")
+        feedback = {
+            "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S.%fZ", time.gmtime()),
+            "signal_id": signal_id,
+            "account_id": signal.get("account_id", "unknown"),
+            "symbol": signal.get("symbol", "unknown"),
+            "status": "ERROR",
+            "message": f"Signal validation failed: {e.message} at path {list(e.path)}"
+        }
+        redis_client.publish(FILL_CHANNEL, json.dumps(feedback))
+        logger.info(f"event=feedback_published status=ERROR signal_id={signal_id} channel={FILL_CHANNEL}")
+
+    except redis.exceptions.RedisError as e:
+        # Specific handling for Redis errors during publishing feedback
+        logger.error(f"event=redis_publish_error error='{e}' signal_id={signal_id} channel={FILL_CHANNEL}")
+        # Re-raise to trigger reconnection logic in the main loop
+        raise
+
+    except Exception as e:
+        logger.exception(f"event=signal_processing_error type=unexpected_error error='{e}' signal_id={signal_id} raw_data='{message_data}'")
+        feedback = {
+            "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S.%fZ", time.gmtime()),
+            "signal_id": signal_id,
+            "status": "ERROR",
+            "message": f"Unexpected error processing signal: {e}"
+        }
+        try:
+            redis_client.publish(FILL_CHANNEL, json.dumps(feedback))
+            logger.info(f"event=feedback_published status=ERROR signal_id={signal_id} channel={FILL_CHANNEL}")
+        except redis.exceptions.RedisError as pub_e:
+             logger.error(f"event=redis_publish_error_on_exception error='{pub_e}' signal_id={signal_id} channel={FILL_CHANNEL}")
+             # Re-raise to trigger reconnection logic
+             raise
+
+# --- Main Listener Loop (GENIE Signals -> QuantTower) ---
+def genie_signal_listener():
+    """Listens for signals from GENIE and processes them."""
+    logger.info("event=service_starting component=GenieSignalListener")
+    redis_client = connect_redis()
+    pubsub = redis_client.pubsub(ignore_subscribe_messages=True)
+
+    while True:
+        try:
+            pubsub.subscribe(LISTEN_CHANNEL)
+            logger.info(f"event=subscribed_to_channel channel={LISTEN_CHANNEL}")
+            for message in pubsub.listen():
+                if message["type"] == "message":
+                    process_signal(redis_client, message["data"])
+        except redis.exceptions.ConnectionError as e:
+            logger.error(f"event=redis_connection_lost error='{e}' component=GenieSignalListener details='Attempting reconnect...'")
+            pubsub.close()
+            redis_client = connect_redis()
+            pubsub = redis_client.pubsub(ignore_subscribe_messages=True)
+        except Exception as e:
+            logger.exception(f"event=listener_unexpected_error error='{e}' component=GenieSignalListener details='Restarting listener loop after delay...'")
+            # Avoid tight loop on unexpected errors
+            time.sleep(RECONNECT_DELAY_SECONDS)
+            # Attempt to reconnect just in case
+            try:
+                pubsub.close()
+            except: pass
+            redis_client = connect_redis()
+            pubsub = redis_client.pubsub(ignore_subscribe_messages=True)
+
+# --- Bi-Directional Listener (QuantTower Fills -> GENIE) ---
+def external_fill_listener():
+    """Listens for execution fills from external sources (e.g., QuantTower) and publishes them to GENIE."""
+    logger.info("event=service_starting component=ExternalFillListener")
+    redis_client = connect_redis()
+    pubsub = redis_client.pubsub(ignore_subscribe_messages=True)
+
+    while True:
+        try:
+            # Subscribe to the channel where QuantTower (or its adapter) publishes fills
+            pubsub.subscribe(EXTERNAL_FILL_CHANNEL)
+            logger.info(f"event=subscribed_to_channel channel={EXTERNAL_FILL_CHANNEL}")
+            for message in pubsub.listen():
+                if message["type"] == "message":
+                    fill_data = message["data"]
+                    logger.info(f"event=external_fill_received channel={EXTERNAL_FILL_CHANNEL} raw_data='{fill_data}'")
+
+                    # TODO: Add validation for the fill_data format if needed
+                    # Example: Ensure it's valid JSON and contains expected fields
+                    try:
+                        fill_json = json.loads(fill_data)
+                        # Basic validation example (adapt as needed)
+                        if not all(k in fill_json for k in ('order_id', 'status', 'timestamp')):
+                            raise ValueError("Missing required fill fields")
+                        logger.info(f"event=external_fill_validation_success order_id={fill_json.get('order_id')}")
+                    except (json.JSONDecodeError, ValueError) as e:
+                        logger.error(f"event=external_fill_processing_error type=validation_error error='{e}' raw_data='{fill_data}'")
+                        continue # Skip invalid messages
+
+                    # Publish the received fill data to the GENIE fill channel
+                    redis_client.publish(FILL_CHANNEL, fill_data)
+                    logger.info(f"event=external_fill_forwarded order_id={fill_json.get('order_id')} source_channel={EXTERNAL_FILL_CHANNEL} target_channel={FILL_CHANNEL}")
+
+        except redis.exceptions.ConnectionError as e:
+            logger.error(f"event=redis_connection_lost error='{e}' component=ExternalFillListener details='Attempting reconnect...'")
+            pubsub.close()
+            redis_client = connect_redis()
+            pubsub = redis_client.pubsub(ignore_subscribe_messages=True)
+        except Exception as e:
+            logger.exception(f"event=listener_unexpected_error error='{e}' component=ExternalFillListener details='Restarting listener loop after delay...'")
+            time.sleep(RECONNECT_DELAY_SECONDS)
+            try:
+                pubsub.close()
+            except: pass
+            redis_client = connect_redis()
+            pubsub = redis_client.pubsub(ignore_subscribe_messages=True)
+
+# --- Main Execution ---
+if __name__ == "__main__":
+    logger.info("event=service_startup")
+
+    # Start the listener for GENIE signals in the main thread
+    # Start the listener for external fills in a separate thread
+    fill_thread = threading.Thread(target=external_fill_listener, daemon=True)
+    fill_thread.start()
+    logger.info("event=external_fill_listener_thread_started")
+
+    # Run the main GENIE signal listener
+    genie_signal_listener()
+
+    # Note: genie_signal_listener() runs indefinitely, so code below this won't typically be reached
+    # unless genie_signal_listener exits unexpectedly (which it shouldn't with the error handling).
+    logger.info("event=service_shutdown") # This might not be logged in normal operation
+
+
+---
+Docker File QuantTower Listener
+
+# Use an official Python runtime as a parent image
+FROM python:3.11-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the requirements file into the container at /app
+COPY requirements.txt .
+
+# Install any needed packages specified in requirements.txt
+# Use --no-cache-dir to reduce image size
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the listener script into the container at /app
+COPY quanttower_listener.py .
+
+# Make port 6379 available to the world outside this container (if needed, though Redis connection is outbound)
+# EXPOSE 6379 # Not strictly necessary for outbound Redis connection
+
+# Define environment variables (defaults can be overridden at runtime)
+ENV REDIS_HOST="redis"
+ENV REDIS_PORT="6379"
+ENV REDIS_PASSWORD=""
+
+# Run quanttower_listener.py when the container launches
+CMD ["python", "quanttower_listener.py"]
+
+---
+
+
 
 
 
