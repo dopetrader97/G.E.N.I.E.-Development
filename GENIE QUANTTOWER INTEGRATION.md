@@ -1379,14 +1379,14 @@ Run these commands in your terminal, usually from the directory containing your 
 
 ---
 
-REQURIEMNTS
+## REQURIEMNTS
 
 redis>=6.0.0
 jsonschema>=4.23.0
 
 ---
 
-QuantTower Listener.py:
+## QuantTower Listener.py:
 
 import redis
 import json
@@ -1630,7 +1630,7 @@ if __name__ == "__main__":
 
 
 ---
-Docker File QuantTower Listener
+## Docker File QuantTower Listener
 
 # Use an official Python runtime as a parent image
 FROM python:3.11-slim
@@ -1658,6 +1658,50 @@ ENV REDIS_PASSWORD=""
 
 # Run quanttower_listener.py when the container launches
 CMD ["python", "quanttower_listener.py"]
+
+---
+## Docker Compse Snippet
+# Service snippet for docker-compose.yml
+# Integrate this into your main AIOCC docker-compose.yml file
+
+services:
+  quanttower-listener:
+    build:
+      context: . # Assuming Dockerfile.qt_listener is in the same directory as docker-compose.yml
+      dockerfile: Dockerfile.qt_listener
+    depends_on:
+      - redis # Ensure Redis service is started before this listener
+    environment:
+      REDIS_HOST: "redis" # Service name of your Redis container in the same network
+      REDIS_PORT: "6379"
+      REDIS_PASSWORD: "${REDIS_PASSWORD}" # Use an environment variable defined in your .env file or shell
+    restart: always
+    networks:
+      - aiocc_network # Ensure this service is on the same network as Redis and other AIOCC components
+
+# Ensure you have defined the aiocc_network and the redis service elsewhere
+# in your main docker-compose.yml file. Example:
+#
+# networks:
+#   aiocc_network:
+#     driver: bridge
+#
+# services:
+#   redis:
+#     image: "redis:alpine"
+#     container_name: redis
+#     ports:
+#       - "6379:6379"
+#     volumes:
+#       - redis_data:/data
+#     environment:
+#       REDIS_PASSWORD: "${REDIS_PASSWORD}"
+#     networks:
+#       - aiocc_network
+#     restart: always
+#
+# volumes:
+#   redis_data:
 
 ---
 
