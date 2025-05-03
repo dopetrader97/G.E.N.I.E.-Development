@@ -3132,7 +3132,7 @@ If you encounter errors not covered here, try the general troubleshooting tips f
 Perfect — I’ll now build a complete troubleshooting and recovery appendix for GENIE with detailed phase-based breakdowns, common error traces, root causes, inter-agent dependencies, Windows/EC2 command sets, decision flow diagrams, and cross-environment recovery tables. I’ll let you know when it’s ready for download and review.
 
 
-# Appendix K: GENIE Troubleshooting and Recovery
+# Appendix L: GENIE Advanced Troubleshooting and Recovery
 
 *Last updated: May 03, 2025*
 
