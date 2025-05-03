@@ -741,8 +741,96 @@ This guide focused on establishing the *basic* communication bridge. But you men
 These advanced features require careful planning, design, and significant development effort. This guide provides the foundational connection; Part 8 outlines the exciting possibilities for building upon it.
 
 ---
+## Part 9: Alternative Integration - WebSocket & QuantTower Plugin
 
-## Part 9: Configuring for Prop Firm Compliance (Meeting the Rules)
+**Note:** This section details an alternative, more direct integration architecture using WebSockets, based on the approach outlined in the `GENIE QT Integration.pdf` document. This method relies on a custom C# plugin within QuantTower communicating with a Python listener service via WebSockets, offering a potentially lower-latency path compared to the pure Redis bridge, especially for receiving real-time execution feedback.
+
+### Chapter 28: Architecture Overview (WebSocket + Plugin)
+
+This integration pattern establishes a direct, persistent communication channel between a dedicated Python listener service and a custom plugin running inside QuantTower. Redis is still used for the initial signal injection from GENIE and for broadcasting the final execution results back.
+
+**High-Level Flow:**
+
+1.  **Signal Publication (GENIE → Redis):** GENIE publishes a trading signal (JSON payload with order details) to a specific Redis channel, for example, `genie:orders`.
+2.  **Signal Capture (Listener ← Redis):** The Python listener service (`quanttower_listener.py` using `redis.asyncio`) is subscribed to the `genie:orders` channel and receives the signal message.
+3.  **Relay to Plugin (Listener → WebSocket):** The Python listener acts as a WebSocket server. Upon receiving a signal from Redis, it forwards the order data (as a JSON string) over an active WebSocket connection to the connected QuantTower plugin.
+4.  **Order Execution (QuantTower Plugin ← WebSocket):** A custom C# plugin running within QuantTower acts as a WebSocket client, connected to the Python listener. It receives the JSON order data via the WebSocket. The plugin then uses QuantTower's internal C# API (e.g., `Core.Instance.PlaceOrder(...)`) to execute the trade via the connected broker.
+5.  **Execution Feedback (Plugin → WebSocket):** As QuantTower processes the order (e.g., accepted, filled, rejected), the C# plugin captures these events or results (like `TradingOperationResult`). It sends this feedback information (as a JSON string) back to the Python listener through the persistent WebSocket connection.
+6.  **Feedback Publication (Listener → Redis):** The Python listener receives the execution feedback from the plugin via WebSocket. It then publishes this feedback message to a different Redis channel, such as `genie:executions`, making the results available to the GENIE AIOCC or other monitoring components.
+
+**Key Components:**
+
+*   **GENIE:** Publishes orders to Redis.
+*   **Redis:** Acts as the initial message bus for orders (`genie:orders`) and the final bus for execution reports (`genie:executions`).
+*   **Python Listener Service:**
+    *   Subscribes to Redis `genie:orders`.
+    *   Runs a WebSocket server (e.g., using `websockets` library).
+    *   Forwards Redis orders to the connected plugin via WebSocket.
+    *   Receives execution feedback from the plugin via WebSocket.
+    *   Publishes feedback to Redis `genie:executions`.
+*   **QuantTower C# Plugin:**
+    *   Runs inside QuantTower.
+    *   Connects as a WebSocket client to the Python listener.
+    *   Receives order commands via WebSocket.
+    *   Executes orders using the QuantTower C# API.
+    *   Sends execution results back via WebSocket.
+
+This architecture leverages WebSockets for low-latency, bi-directional communication directly related to order execution, while still using Redis for decoupling GENIE's signal generation and the final reporting.
+
+### Chapter 29: Technology Stack & Rationale
+
+*   **Python Listener:** Uses `asyncio` for concurrent handling of Redis and WebSocket events.
+    *   `redis.asyncio`: For non-blocking communication with Redis Pub/Sub.
+    *   `websockets`: A popular library for building WebSocket servers and clients in Python.
+*   **QuantTower Plugin:** Written in C# (QuantTower's native API language).
+    *   Uses .NET WebSocket client libraries (e.g., `System.Net.WebSockets.ClientWebSocket`) to connect to the Python listener.
+    *   Interacts with the QuantTower Core API (`TradingPlatform.BusinessLayer`) for order placement and status monitoring.
+*   **Communication Protocol:** JSON strings are used for messages exchanged over the WebSocket connection between the listener and the plugin.
+
+**Why this approach?**
+
+*   **Leverages QuantTower API:** Since QuantTower's primary API is C#, a plugin is the most direct way to interact with its core trading functions.
+*   **Real-time Feedback:** WebSockets provide a persistent connection, allowing the plugin to *push* execution updates (fills, rejections) to the listener immediately, rather than the listener needing to poll or wait.
+*   **Decoupling:** While more direct than the pure Redis bridge, it still keeps GENIE itself decoupled from the specifics of QuantTower's API, interacting only via Redis.
+
+### Chapter 30: Implementation Details (Based on PDF Example)
+
+The `GENIE QT Integration.pdf` provides a Python listener implementation (`quanttower_listener.py`) demonstrating these concepts:
+
+*   **Listener Class:** Encapsulates Redis connection, WebSocket server management, and message handling logic.
+*   **Async Operations:** Uses `async def` and `await` extensively to handle network I/O without blocking.
+*   **Redis Subscription:** Connects to Redis and enters an `async for` loop listening for messages on the `genie:orders` channel.
+*   **WebSocket Server:** Uses `websockets.serve` to start a server. A handler function (`handle_plugin_messages`) is defined for each incoming client connection.
+*   **Connection Management:** Stores the active plugin WebSocket connection (`self.plugin_connection`). If a signal arrives from Redis and no plugin is connected, it can enter a "stub mode".
+*   **Message Forwarding:** Forwards messages between Redis and the WebSocket:
+    *   Redis `genie:orders` message -> Parse JSON -> Send JSON string via WebSocket to plugin.
+    *   WebSocket message from plugin -> Publish raw message (assumed JSON string) to Redis `genie:executions`.
+*   **Stub Mode:** If the plugin is disconnected, the listener can simulate responses (e.g., publish an error/rejection message directly to `genie:executions`) for testing the GENIE -> Redis -> Listener -> Redis flow.
+*   **Error Handling:** Includes `try...except` blocks for WebSocket connection closures and potential JSON parsing errors.
+
+**QuantTower Plugin Logic (Conceptual):**
+
+The corresponding C# plugin would need to:
+
+1.  Establish a WebSocket connection to the Python listener's address (e.g., `ws://localhost:8765`).
+2.  Implement reconnection logic if the connection drops.
+3.  Listen for incoming messages (JSON strings representing orders) on the WebSocket.
+4.  Parse the JSON order data.
+5.  Translate the data into parameters for QuantTower's `Core.Instance.PlaceOrder()` or similar API calls.
+6.  Handle the `TradingOperationResult` returned by the API call.
+7.  Hook into QuantTower events for order fills, rejections, or other status changes.
+8.  Format the results/events into JSON strings.
+9.  Send these JSON feedback messages back to the Python listener via the WebSocket.
+
+**Comparison Summary:**
+
+This WebSocket + Plugin method offers a more tightly integrated, potentially lower-latency path for order execution and feedback compared to routing everything through Redis channels. However, it requires developing and maintaining the custom C# plugin within QuantTower, in addition to the Python listener service.
+
+---
+
+---
+
+## Part 10: Configuring for Prop Firm Compliance (Meeting the Rules)
 
 **Disclaimer:** This section provides a conceptual overview of how you might configure the GENIE system and its QuantTower integration to adhere to common proprietary trading (prop firm) evaluation rules. The *exact* implementation details depend heavily on the specific architecture of GENIE agents, the AIOCC risk management features, and the capabilities of your QuantTower setup. This is a starting point for discussion and development, not a definitive how-to.
 
