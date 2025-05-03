@@ -49,6 +49,8 @@
     *   Chapter 25: Integrating QuantTower UI/Tabs into AIOCC (Feasibility Check)
     *   Chapter 26: Implementing Copy/Mirror Trading Logic
     *   Chapter 27: Designing Failsafe Mechanisms
+*   **Part 9: Alternative Integration - WebSocket & FastAPI (Conceptual)
+*   **Part 10: Configuring for Prop Firm Compliance (Meeting the Rules)
 *   **Conclusion**
     *   Recap: What We Accomplished
     *   Next Steps & Further Learning
